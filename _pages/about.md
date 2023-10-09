@@ -10,7 +10,7 @@ redirect_from:
 
 I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, mentored by Profs. [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931).  I am also associated with ASSET (Center for AI-enabled systems: Safe, Explainable and Trustworthy. Previously, I was a  post-doctoral researcher in Department of Electrical Engineering and Computer Science at the University of Michigan, mentored by Prof. [Laura Balzano](https://web.eecs.umich.edu/~girasole/). I received my Ph.D. in Mathematics from the University of Florida in 2020 under the supervision of Profs. [William W. Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://informatics.research.ufl.edu/homepage-2/about-us/michailidis.html).
 
-## Research Interests:
+## Current Research Interests:
 - **Optimization Algorithms for Machine Learning Problems:**  
   Study the optimization landscape of machine learning problems and develop online, federated, and distributed algorithms for solving these problems with provable guarantees.
 - **Implicit Bias of Transformers and Large Language Models:**  
