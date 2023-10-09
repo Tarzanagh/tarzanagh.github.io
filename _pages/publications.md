@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### Preprints:
+## Preprints:
 
 1. (with Yingcong Li, Christos Thrampoulidis, Samet Oymak) **Transformers as Support Vector Machines.** arXiv preprint arXiv:2308.16898 (2023).
 2. (with Mingchen Li, Pranay Sharma, Samet Oymak) **Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation.** arXiv preprint arXiv:2306.01648 (2023).
