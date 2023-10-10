@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Serivce"
+title: "Reviewer / Program Committee"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 #{% include base_path %}
-
-## Reviewer / Program Committee:
-
 - Conference on Neural Information Processing Systems, 2022--2023
 - International Conference on Machine Learning, 2022--2023
 - International Conference on Learning Representations, 2024
