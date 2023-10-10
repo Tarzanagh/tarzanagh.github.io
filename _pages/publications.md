@@ -74,15 +74,15 @@ International Conference on Machine Learning (ICML), 2022.
 
 C6. **Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds.**  
 American Control Conference (ACC) Atlanta, GA, (2022).  
-(with Zhe Du, Yahya Sattar, Davoud Ataee Tarzanagh, Laura Balzano, Necmiye Ozay, Samet Oymak).
+(with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak).
 
 C5. **Certainty Equivalent Quadratic Control for Markov Jump Systems.**  
 American Control Conference (ACC), Atlanta, GA, (2022).  
-(with Zhe Du, Yahya Sattar, Davoud Ataee Tarzanagh, Laura Balzano, Samet Oymak, Necmiye Ozay).
+(with Zhe Du, Yahya Sattar, Laura Balzano, Samet Oymak, Necmiye Ozay).
 
 C4. **Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds.**  
 ICML Workshop on Reinforcement Learning Theory, 2021.  
-(with Yahya Sattar, Zhe Du, Davoud Ataee Tarzanagh, Laura Balzano, Necmiye Ozay, Samet Oymak).
+(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak).
 
 C3. **Truncated Matrix Completion - An Empirical Study.**  
 In 30th European Signal Processing Conference (EUSIPCO 2022).  
