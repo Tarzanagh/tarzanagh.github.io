@@ -5,9 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
 
-%{% include base_path %}
 - Conference on Neural Information Processing Systems, 2022--2023
 - International Conference on Machine Learning, 2022--2023
 - International Conference on Learning Representations, 2024
