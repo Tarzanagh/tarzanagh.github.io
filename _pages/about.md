@@ -6,63 +6,42 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, mentored by Profs. [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931).  I am also affiliated with ASSET (Center for AI-enabled systems: Safe, Explainable and Trustworthy). Previously, I was a  post-doctoral researcher in Department of Electrical Engineering and Computer Science at the University of Michigan, mentored by Prof. [Laura Balzano](https://web.eecs.umich.edu/~girasole/). I received my Ph.D. in Mathematics from the University of Florida in 2020 under the supervision of Profs. [William W. Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://informatics.research.ufl.edu/homepage-2/about-us/michailidis.html).
+## About Me
 
+I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at the University of Pennsylvania, mentored by Professors [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). I am also affiliated with ASSET (Center for AI-enabled systems: Safe, Explainable and Trustworthy). Previously, I was a post-doctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, mentored by Professor [Laura Balzano](https://web.eecs.umich.edu/~girasole/). I received my Ph.D. in Mathematics from the University of Florida in 2020 under the supervision of Professors [William W. Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://informatics.research.ufl.edu/homepage-2/about-us/michailidis.html).
 
+## Current Research Interests
 
-<h2>Current Research Interests:</h2>
-<ul>
-  <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-    <strong style="color: #FF69B4;">Optimization Algorithms for Machine Learning Problems:</strong><br>
-    Study the optimization landscape of machine learning problems and develop online, federated, and distributed algorithms for solving these problems with provable guarantees.
-    <br>
-    <a href="https://arxiv.org/abs/2205.02215" style="color: #FF69B4;">FedNest: Federated Bilevel, Minimax, and Compositional Optimization.</a>
-    <br>
-    International Conference on Machine Learning (ICML), 2022. [Oral (2% Acceptance)]
-    <br>
-    (with Mingchen Li, Christos Thrampoulidis, Samet Oymak).
-  </li>
-  <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-    <strong style="color: #FF69B4;">Implicit Bias of Transformers and Large Language Models:</strong><br>
-    Providing optimization methods that not only minimize the training error objective but also prefer simple solutions, ultimately leading to good test error.
-    <br>
-    <a href="https://arxiv.org/abs/2306.13596" style="color: #FF69B4;">Max-Margin Token Selection in Attention Mechanism.</a>
-    <br>
-    Conference on Neural Information Processing Systems (NeurIPS), 2023. [Spotlight (3% Acceptance)]
-    <br>
-    (with Yingcong Li, Xuechen Zhang, Samet Oymak).
-  </li>
-  <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-    <strong style="color: #FF69B4;">Fairness in Machine Learning:</strong><br>
-    Develop probabilistic algorithms correcting biases in the machine learning models.
-    <br>
-    <a href="https://arxiv.org/abs/2309.15809" style="color: #FF69B4;">Fair Canonical Correlation Analysis.</a>
-    <br>
-    Conference on Neural Information Processing Systems (NeurIPS), 2023.
-    <br>
-    (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen).
-    <br>
-    <a href="https://proceedings.mlr.press/v216/tarzanagh23a" style="color: #FF69B4;">Fairness-Aware Class Imbalanced Learning on Multiple Subgroups.</a>
-    <br>
-    In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
-    <br>
-    (with Bojian Hou, Boning Tong, Qi Long, and Li Shen).
-  </li>
-  <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-    <strong style="color: #FF69B4;">High Dimensional and Tensorial Data Analysis:</strong><br>
-    Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
-    <br>
-    <a href="https://arxiv.org/abs/1704.04362" style="color: #FF69B4;">Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data.</a>
-    <br>
-    SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
-    <br>
-    (with George Michailidis)
-    <br>
-    <a href="https://arxiv.org/abs/1609.09010" style="color: #FF69B4;">Estimation of Graphical Models through Structured Norm Minimization.</a>
-    <br>
-    Journal of Machine Learning Research 18, no. 1 (2018).
-    <br>
-    (with George Michailidis)
-  </li>
-</ul>
+### Optimization Algorithms for Machine Learning Problems
 
+- Study the optimization landscape of machine learning problems and develop online, federated, and distributed algorithms for solving these problems with provable guarantees.
+- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
+  - International Conference on Machine Learning (ICML), 2022. [Oral (2% Acceptance)]
+  - (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)
+
+### Implicit Bias of Transformers and Large Language Models
+
+- Providing optimization methods that not only minimize the training error objective but also prefer simple solutions, ultimately leading to good test error.
+- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
+  - Conference on Neural Information Processing Systems (NeurIPS), 2023. [Spotlight (3% Acceptance)]
+  - (with Yingcong Li, Xuechen Zhang, Samet Oymak)
+
+### Fairness in Machine Learning
+
+- Develop probabilistic algorithms correcting biases in machine learning models.
+- [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
+  - Conference on Neural Information Processing Systems (NeurIPS), 2023.
+  - (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)
+- [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
+  - In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
+  - (with Bojian Hou, Boning Tong, Qi Long, and Li Shen)
+
+### High Dimensional and Tensorial Data Analysis
+
+- Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
+- [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)
+  - SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
+  - (with George Michailidis)
+- [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)
+  - Journal of Machine Learning Research 18, no. 1 (2018).
+  - (with George Michailidis)
