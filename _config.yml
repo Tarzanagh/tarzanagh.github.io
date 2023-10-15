@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Davoud Ataee Tarzanagh"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Davoud Ataee Tarzanagh"
 description              : &description "personal description"
