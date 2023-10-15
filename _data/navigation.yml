@@ -17,6 +17,9 @@ main:
     
   - title: "Service"
     url: /cv/
+
+  - title: "Contact"
+    url: /sitemap/
     
 #  - title: "Guide"
  #   url: /markdown/
