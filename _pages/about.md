@@ -35,10 +35,23 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
     <strong style="color: #FF69B4;">Fairness in Machine Learning:</strong><br>
     Develop probabilistic algorithms correcting biases in the machine learning models.
+    <br>
+    <a href="https://arxiv.org/abs/2309.15809" style="color: #FF69B4;">Fair Canonical Correlation Analysis.</a>
+    <br>
+    Conference on Neural Information Processing Systems (NeurIPS), 2023.
+    <br>
+    (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen).
+    <br>
+    <a href="https://proceedings.mlr.press/v216/tarzanagh23a" style="color: #FF69B4;">Fairness-Aware Class Imbalanced Learning on Multiple Subgroups.</a>
+    <br>
+    In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
+    <br>
+    (with Bojian Hou, Boning Tong, Qi Long, and Li Shen).
   </li>
   <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
     <strong style="color: #FF69B4;">High Dimensional and Network Data Analysis:</strong><br>
     Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
   </li>
 </ul>
+
 
