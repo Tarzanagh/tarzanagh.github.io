@@ -17,6 +17,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
     <strong style="color: #FF69B4;">Implicit Bias of Transformers and Large Language Models:</strong><br>
     Providing optimization methods that not only minimize the training error objective but also prefer simple solutions, ultimately leading to good test error.
+    <br><a href="https://arxiv.org/abs/2308.16898" style="color: #FF69B4;">Transformers as Support Vector Machines</a>
   </li>
   <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
     <strong style="color: #FF69B4;">Fairness in Machine Learning:</strong><br>
@@ -27,3 +28,4 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
     Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
   </li>
 </ul>
+
