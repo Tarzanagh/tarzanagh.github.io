@@ -18,16 +18,19 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
     <br>
     <a href="https://arxiv.org/abs/2205.02215" style="color: #FF69B4;">FedNest: Federated Bilevel, Minimax, and Compositional Optimization.</a>
     <br>
-    International Conference on Machine Learning (ICML), 2022.
+    International Conference on Machine Learning (ICML), 2022. [Oral (2% Acceptance)]
     <br>
     (with Mingchen Li, Christos Thrampoulidis, Samet Oymak).
-    <br>
-    [Oral (2% Acceptance)]
   </li>
   <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
     <strong style="color: #FF69B4;">Implicit Bias of Transformers and Large Language Models:</strong><br>
     Providing optimization methods that not only minimize the training error objective but also prefer simple solutions, ultimately leading to good test error.
-    <br><a href="https://arxiv.org/abs/2308.16898" style="color: #FF69B4;">Transformers as Support Vector Machines</a>
+    <br>
+    <a href="https://arxiv.org/abs/2306.13596" style="color: #FF69B4;">Max-Margin Token Selection in Attention Mechanism.</a>
+    <br>
+    Conference on Neural Information Processing Systems (NeurIPS), 2023. [Spotlight (3% Acceptance)]
+    <br>
+    (with Yingcong Li, Xuechen Zhang, Samet Oymak).
   </li>
   <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
     <strong style="color: #FF69B4;">Fairness in Machine Learning:</strong><br>
@@ -38,3 +41,4 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
     Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
   </li>
 </ul>
+
