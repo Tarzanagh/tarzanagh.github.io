@@ -49,9 +49,20 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
     (with Bojian Hou, Boning Tong, Qi Long, and Li Shen).
   </li>
   <li style="background-color: #FFE4E1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-    <strong style="color: #FF69B4;">High Dimensional and Network Data Analysis:</strong><br>
+    <strong style="color: #FF69B4;">High Dimensional and Tensorial Data Analysis:</strong><br>
     Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
+    <br>
+    <a href="https://arxiv.org/abs/1704.04362" style="color: #FF69B4;">Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data.</a>
+    <br>
+    SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
+    <br>
+    (with George Michailidis)
+    <br>
+    <a href="https://arxiv.org/abs/1609.09010" style="color: #FF69B4;">Estimation of Graphical Models through Structured Norm Minimization.</a>
+    <br>
+    Journal of Machine Learning Research 18, no. 1 (2018).
+    <br>
+    (with George Michailidis)
   </li>
 </ul>
-
 
