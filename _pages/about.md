@@ -12,27 +12,24 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 
 ### Optimization Algorithms for Machine Learning Problems
 Study the optimization landscape of machine learning problems and develop online, federated, and distributed algorithms for solving these problems with provable guarantees.
-- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
+- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215) (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)
   International Conference on Machine Learning (ICML), 2022. [Oral (2% Acceptance)]   
-  (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)
+  
 ### Implicit Bias of Transformers and Large Language Models
 Providing optimization methods that not only minimize the training error objective but also prefer simple solutions, ultimately leading to good test error.
-- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
+- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596) (with Yingcong Li, Xuechen Zhang, Samet Oymak)
   Conference on Neural Information Processing Systems (NeurIPS), 2023. [Spotlight (3% Acceptance)]
-  (with Yingcong Li, Xuechen Zhang, Samet Oymak)
+
 ### Fairness in Machine Learning
 Develop probabilistic algorithms correcting biases in machine learning models.
-- [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
+- [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809) (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
-  (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)
-- [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
+- [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a) (with Bojian Hou, Boning Tong, Qi Long, and Li Shen)
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
-  (with Bojian Hou, Boning Tong, Qi Long, and Li Shen)
+
 ### High-Dimensional and Tensorial Data Analysis
 Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
-- [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)
+- [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)  (with George Michailidis)
   SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
-  (with George Michailidis)
-- [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)
+- [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)   (with George Michailidis)
   Journal of Machine Learning Research 18, no. 1 (2018).
-  (with George Michailidis)
