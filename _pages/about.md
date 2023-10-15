@@ -33,3 +33,4 @@ Develop scalable algorithms with provable performance guarantees for learning fr
   SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
 - [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)   (with George Michailidis)
   Journal of Machine Learning Research 18, no. 1 (2018).
+  
