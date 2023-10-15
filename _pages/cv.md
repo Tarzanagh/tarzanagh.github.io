@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Reviewer / Program Committee"
+title: "Reviewer/Program Committee"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+---
 
 {% include base_path %}
-{% include toc %}
 
 - Conference on Neural Information Processing Systems, 2022--2023
 - International Conference on Machine Learning, 2022--2023
