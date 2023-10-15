@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Home"
-#title_separator          : "-"
+title                    : "Home"
+title_separator          : "-"
 name                     : &name "Davoud Ataee Tarzanagh"
 description              : &description "personal description"
 url                      : https://tarzanagh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
