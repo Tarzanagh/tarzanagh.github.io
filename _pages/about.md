@@ -37,7 +37,7 @@ Develop probabilistic algorithms correcting biases in machine learning models.
   Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
 
 ### High-Dimensional and Tensorial Data Analysis
-Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and network data, including graphical models and time series.
+Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and tensorial data.
 - [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)
   (with George Michailidis),
   SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
