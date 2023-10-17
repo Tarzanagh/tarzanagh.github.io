@@ -15,7 +15,7 @@ Study the optimization landscape of machine learning problems and develop online
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak),
   International Conference on Machine Learning (ICML), 2022. **Oral** (2% Acceptance)   
-- [Online bilevel optimization: Regret analysis of online alternating gradient methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
+- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
   arXiv preprint arXiv:2207.02829, 2022.
   
 ### Implicit Bias of Transformers and Large Language Models
@@ -23,7 +23,7 @@ Providing optimization methods that not only minimize the training error objecti
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
   (with Yingcong Li, Xuechen Zhang, Samet Oymak),
   Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight** (3% Acceptance)
-- [Transformers as support vector machines](https://arxiv.org/abs/2308.16898),
+- [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898),
   (with Yingcong Li, Christos Thrampoulidis, Samet Oymak),
   arXiv preprint arXiv:2308.16898, 2023. 
 
