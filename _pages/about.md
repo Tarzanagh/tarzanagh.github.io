@@ -28,7 +28,7 @@ Providing optimization methods that not only minimize the training error objecti
   arXiv preprint arXiv:2308.16898, 2023. 
 
 ### Fairness in Machine Learning
-Develop probabilistic algorithms correcting biases in machine learning models.
+Developing probabilistic algorithms correcting biases in machine learning models.
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
   (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen),
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
@@ -37,7 +37,7 @@ Develop probabilistic algorithms correcting biases in machine learning models.
   Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
 
 ### High-Dimensional and Tensorial Data Analysis
-Develop scalable algorithms with provable performance guarantees for learning from high-dimensional and tensorial data.
+Developing scalable algorithms with provable performance guarantees for learning from high-dimensional and tensorial data.
 - [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)
   (with George Michailidis),
   SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
