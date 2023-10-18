@@ -11,7 +11,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ## Current Research Interests
 
 ### Optimization Algorithms for Machine Learning Problems
-Study the optimization landscape of machine learning problems and develop online, federated, and distributed algorithms for solving these problems with provable guarantees.
+Studying the optimization landscape of machine learning problems and developing online, federated, and distributed algorithms for solving these problems with provable guarantees.
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak),
   International Conference on Machine Learning (ICML), 2022.    
