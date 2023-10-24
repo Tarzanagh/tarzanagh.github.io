@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-size: 0.9em;">
+
 I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, hosted by [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). I am also affiliated with ASSET (Center for AI-enabled systems: Safe, Explainable, and Trustworthy). Previously, I was a post-doctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, hosted by [Laura Balzano](https://web.eecs.umich.edu/~girasole/). I received my Ph.D. in Mathematics from the University of Florida in 2020, where I was co-advised by [William W. Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://informatics.research.ufl.edu/homepage-2/about-us/michailidis.html).
 
 ## Current Research Interests
@@ -13,7 +15,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ### Optimization Algorithms for Machine Learning Problems
 Studying the optimization landscape of machine learning problems and developing online, federated, and distributed algorithms for solving these problems with provable guarantees.
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
-  (with Mingchen Li, Christos Thrampoulidis, Samet Oymak),
+  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
   International Conference on Machine Learning (ICML), 2022.    
 - [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
   arXiv preprint arXiv:2207.02829, 2022.
@@ -21,16 +23,16 @@ Studying the optimization landscape of machine learning problems and developing 
 ### Implicit Bias of Transformers and Large Language Models
 Providing optimization methods that not only minimize the training error objective but also prefer simple solutions, ultimately leading to good test error.
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
-  (with Yingcong Li, Xuechen Zhang, Samet Oymak),
+  (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
   Conference on Neural Information Processing Systems (NeurIPS), 2023.  
 - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898),
-  (with Yingcong Li, Christos Thrampoulidis, Samet Oymak),
+  (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
   arXiv preprint arXiv:2308.16898, 2023. 
 
 ### Fairness in Machine Learning
 Developing probabilistic algorithms correcting biases in machine learning models.
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
-  (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen),
+  (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
@@ -44,3 +46,5 @@ Developing scalable algorithms with provable performance guarantees for learning
 - [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)
   (with George Michailidis),
   Journal of Machine Learning Research 18, no. 1 (2018).
+
+</div>
