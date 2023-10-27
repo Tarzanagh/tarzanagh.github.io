@@ -7,7 +7,7 @@
 locale: "en-US"
 title: "Home"
 title_separator: "-"
-name: &name "Davoud Ataee Tarzanagh"
+name: &name "Davoud      Ataee Tarzanagh"
 description: &description "personal description"
 url: https://tarzanagh.github.io
 baseurl: ""
