@@ -31,7 +31,7 @@ Providing optimization methods that not only minimize the training error objecti
 ### Fairness in Machine Learning
 Developing probabilistic algorithms correcting biases in machine learning models.
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
-  (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
+  (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
