@@ -25,7 +25,8 @@ Providing optimization methods that not only minimize the training error objecti
   Conference on Neural Information Processing Systems (NeurIPS), 2023.  
 - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898),
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
-  arXiv preprint arXiv:2308.16898, 2023. 
+   NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning, 2023.
+ 
 
 ### Fairness in Machine Learning
 Developing probabilistic algorithms correcting biases in machine learning models.
