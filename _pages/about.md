@@ -15,7 +15,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
   International Conference on Machine Learning (ICML), 2022.    
 - [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
-  arXiv preprint arXiv:2207.02829, 2022.
+  arXiv preprint arXiv:2207.02829.
   
 ### Implicit Bias of Transformers and Large Language Models
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
