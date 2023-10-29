@@ -17,25 +17,25 @@ author_profile: true
 
 ## Preprints:
 
-- P7. **Transformers as Support Vector Machines.** arXiv preprint arXiv:2308.16898 (2023).  
+- P7. **Transformers as Support Vector Machines.** arXiv preprint arXiv:2308.16898.  
 (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)
 
-- P6. **Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation.** arXiv preprint arXiv:2306.01648 (2023).  
+- P6. **Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation.** arXiv preprint arXiv:2306.01648.  
 (with Mingchen Li, Pranay Sharma, Samet Oymak)
 
-- P5. **Online bilevel optimization: Regret analysis of online alternating gradient methods.** arXiv preprint arXiv:2207.02829 (2022).  
+- P5. **Online bilevel optimization: Regret analysis of online alternating gradient methods.** arXiv preprint arXiv:2207.02829.  
 (with Laura Balzano)
 
-- P4. **Fair Structure Learning in Heterogeneous Graphical Models.** arXiv preprint arXiv:2112.05128 (2021).  
+- P4. **Fair Structure Learning in Heterogeneous Graphical Models.** arXiv preprint arXiv:2112.05128.  
 (with Laura Balzano, Alfred O. Hero)
 
-- P3. **Identification and adaptive control of markov jump systems: Sample complexity and regret bounds.** arXiv preprint arXiv:2111.07018 (2021).  
+- P3. **Identification and adaptive control of markov jump systems: Sample complexity and regret bounds.** arXiv preprint arXiv:2111.07018.  
 (with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)
 
-- P2. **Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems.** (2021).  
+- P2. **Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems.**.  
 (with Parvin Nazari, George Michailidis)
 
-- P1. **A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints.** (2020).  
+- P1. **A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints.**.  
 (with William W. Hager)
 
 
