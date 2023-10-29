@@ -11,7 +11,6 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ## Current Research Interests
 
 ### Optimization Algorithms for Machine Learning Problems
-Studying the optimization landscape of machine learning problems and developing online, federated, and distributed algorithms for solving these problems with provable guarantees.
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
   International Conference on Machine Learning (ICML), 2022.    
@@ -19,7 +18,6 @@ Studying the optimization landscape of machine learning problems and developing 
   arXiv preprint arXiv:2207.02829, 2022.
   
 ### Implicit Bias of Transformers and Large Language Models
-Providing optimization methods that not only minimize the training error objective but also prefer simple solutions, ultimately leading to good test error.
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
   Conference on Neural Information Processing Systems (NeurIPS), 2023.  
@@ -27,9 +25,7 @@ Providing optimization methods that not only minimize the training error objecti
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
    NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
  
-
 ### Fairness in Machine Learning
-Developing probabilistic algorithms correcting biases in machine learning models.
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
@@ -38,7 +34,6 @@ Developing probabilistic algorithms correcting biases in machine learning models
   Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
 
 ### High-Dimensional and Tensorial Data Analysis
-Developing scalable algorithms with provable performance guarantees for learning from high-dimensional and tensorial data.
 - [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)
   (with George Michailidis),
   SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
