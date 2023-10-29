@@ -10,14 +10,8 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 
 ## Research Interests
 
-#### Optimization Algorithms for Machine Learning Problems
-- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
-  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
-  International Conference on Machine Learning (ICML), 2022.    
-- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
-  arXiv preprint arXiv:2207.02829.
   
-#### Implicit Bias of Transformers and Large Language Models
+### Implicit Bias of Transformers and Large Language Models
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
   Neural Information Processing Systems (NeurIPS), 2023.  
@@ -25,7 +19,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
  
-#### Fairness in Machine Learning
+### Fairness in Machine Learning
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
   Neural Information Processing Systems (NeurIPS), 2023.
@@ -33,11 +27,18 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
   Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
 
-#### High-Dimensional and Tensorial Data Analysis
+### High-Dimensional and Tensorial Data Analysis
 - [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)
   (with George Michailidis),
   SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
 - [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)
   (with George Michailidis),
   Journal of Machine Learning Research 18, no. 1 (2018).
+
+### Optimization Algorithms for Machine Learning Problems
+- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
+  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
+  International Conference on Machine Learning (ICML), 2022.    
+- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
+  arXiv preprint arXiv:2207.02829.
 
