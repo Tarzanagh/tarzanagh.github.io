@@ -18,28 +18,28 @@ author_profile: true
 ## Preprints:
 
 - P6. **Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation.**  
+arXiv preprint arXiv:2306.01648,
 (with Mingchen Li, Pranay Sharma, Samet Oymak)
-arXiv preprint arXiv:2306.01648.
 
 - P5. **Online bilevel optimization: Regret analysis of online alternating gradient methods.**  
+arXiv preprint arXiv:2207.02829,
 (with Laura Balzano)
-arXiv preprint arXiv:2207.02829.
 
 - P4. **Fair Structure Learning in Heterogeneous Graphical Models.**  
+arXiv preprint arXiv:2112.05128,
 (with Laura Balzano, Alfred O. Hero)
-arXiv preprint arXiv:2112.05128.
 
 - P3. **Identification and adaptive control of markov jump systems: Sample complexity and regret bounds.** 
+arXiv preprint arXiv:2111.07018,
 (with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)
-arXiv preprint arXiv:2111.07018.
 
 - P2. **Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems.** 
+arXiv preprint arXiv:2005.09261,
 (with Parvin Nazari, George Michailidis)
-arXiv preprint arXiv:2005.09261. 
-
+ 
 - P1. **A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints.**.  
-(with William W. Hager)
-arXiv preprint arXiv:2011.01201. 
+arXiv preprint arXiv:2011.01201,
+(with William W. Hager). 
 
 ## Conferences:
 
