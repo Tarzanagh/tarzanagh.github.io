@@ -17,29 +17,35 @@ author_profile: true
 
 ## Preprints:
 
-- P7. **Transformers as Support Vector Machines.** arXiv preprint arXiv:2308.16898.  
-(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)
-
-- P6. **Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation.** arXiv preprint arXiv:2306.01648.  
+- P6. **Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation.**  
 (with Mingchen Li, Pranay Sharma, Samet Oymak)
+arXiv preprint arXiv:2306.01648.
 
-- P5. **Online bilevel optimization: Regret analysis of online alternating gradient methods.** arXiv preprint arXiv:2207.02829.  
+- P5. **Online bilevel optimization: Regret analysis of online alternating gradient methods.**  
 (with Laura Balzano)
+arXiv preprint arXiv:2207.02829.
 
-- P4. **Fair Structure Learning in Heterogeneous Graphical Models.** arXiv preprint arXiv:2112.05128.  
+- P4. **Fair Structure Learning in Heterogeneous Graphical Models.**  
 (with Laura Balzano, Alfred O. Hero)
+arXiv preprint arXiv:2112.05128.
 
-- P3. **Identification and adaptive control of markov jump systems: Sample complexity and regret bounds.** arXiv preprint arXiv:2111.07018.  
+- P3. **Identification and adaptive control of markov jump systems: Sample complexity and regret bounds.** 
 (with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)
+arXiv preprint arXiv:2111.07018.
 
-- P2. **Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems.**.  
+- P2. **Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems.** 
 (with Parvin Nazari, George Michailidis)
+arXiv preprint arXiv:2005.09261. 
 
 - P1. **A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints.**.  
 (with William W. Hager)
-
+arXiv preprint arXiv:2011.01201. 
 
 ## Conferences:
+
+- C14. **Transformers as Support Vector Machines.**  
+(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)
+NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
 
 - C13. **Max-Margin Token Selection in Attention Mechanism.**  
 Conference on Neural Information Processing Systems (NeurIPS), 2023.  
