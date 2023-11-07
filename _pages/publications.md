@@ -141,7 +141,7 @@ author_profile: true
 
 - J1. **A New Nonmonotone Trust Region Method for Unconstrained Optimization Equipped by an Efficient Adaptive Radius**
   (with Mohammad Reza Peyghami, Hamid Mesgarani)
-  Optimization methods and software 29, no. 4 (2014): 819-836.  
+   Optimization methods and software 29, no. 4 (2014): 819-836.  
 
 
 
