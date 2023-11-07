@@ -33,18 +33,18 @@ author_profile: true
 
 ## Conferences:
 
-- C14. **Transformers as Support Vector Machines**
+- C14. Transformers as Support Vector Machines
   (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.  
 
-- C13. **Max-Margin Token Selection in Attention Mechanism**  
+- C13. Max-Margin Token Selection in Attention Mechanism
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.    
   <span style="color:red">[Spotlight (3% Acceptance)]</span>
 
-- C12. **Fair Canonical Correlation Analysis**  
+- C12. Fair Canonical Correlation Analysis
   (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)  
-  Conference on Neural Information Processing Systems (NeurIPS), 2023.  
+  Conference on Neural Information Processing Systems (NeurIPS), 2023.
 
 - C11. **Multi-group Tensor Canonical Correlation Analysis**  
   (with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)  
@@ -139,10 +139,9 @@ author_profile: true
   (with Zeinab Saeidian, Mohammad Reza Peyghami, Hamid Mesgarani)  
   Optimization Letters 9, no. 2 (2015): 283-310.   
 
-- J1. **A New Nonmonotone Trust Region Method for Unconstrained Optimization Equipped by an Efficient Adaptive Radius**
-  (with Mohammad Reza Peyghami, Hamid Mesgarani)
-   Optimization methods and software 29, no. 4 (2014): 819-836.  
-
+- J1. **A New Nonmonotone Trust Region Method for Unconstrained Optimization Equipped by an Efficient Adaptive Radius**  
+  (with Mohammad Reza Peyghami, Hamid Mesgarani)  
+  Optimization Methods and Software 29, no. 4 (2014): 819-836.
 
 
 
