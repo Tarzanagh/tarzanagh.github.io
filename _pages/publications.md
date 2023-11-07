@@ -33,8 +33,6 @@ author_profile: true
 
 ## Conferences:
 
-## Conferences:
-
 - C14. **Transformers as Support Vector Machines**  
   (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
