@@ -33,16 +33,18 @@ author_profile: true
 
 ## Conferences:
 
-- C14. Transformers as Support Vector Machines
-  (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
-  NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.  
+## Conferences:
 
-- C13. Max-Margin Token Selection in Attention Mechanism
+- C14. **Transformers as Support Vector Machines**  
+  (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
+  NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
+
+- C13. **Max-Margin Token Selection in Attention Mechanism**  
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
-  Conference on Neural Information Processing Systems (NeurIPS), 2023.    
+  Conference on Neural Information Processing Systems (NeurIPS), 2023.  
   <span style="color:red">[Spotlight (3% Acceptance)]</span>
 
-- C12. Fair Canonical Correlation Analysis
+- C12. **Fair Canonical Correlation Analysis**  
   (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
 
