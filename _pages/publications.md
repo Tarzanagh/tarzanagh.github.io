@@ -7,88 +7,82 @@ author_profile: true
 
 ## Preprints:
 
-- P6. **Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation**  
+- P6. [Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation](https://arxiv.org/abs/2306.01648) 
   (with Mingchen Li, Pranay Sharma, Samet Oymak)  
-  arXiv preprint [arXiv:2306.01648](https://arxiv.org/abs/2306.01648).
 
-- P5. **Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods**  
+- P5. [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829)  
   (with Laura Balzano)  
-  arXiv preprint [arXiv:2207.02829](https://arxiv.org/abs/2207.02829). 
 
-- P4. **Fair Structure Learning in Heterogeneous Graphical Models**  
+- P4. [Fair Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/abs/2112.05128)  
   (with Laura Balzano, Alfred O. Hero)  
-  arXiv preprint [arXiv:2112.05128](https://arxiv.org/abs/2112.05128).
 
-- P3. **Identification and adaptive control of markov jump systems: Sample complexity and regret bounds** 
+- P3. [Identification and adaptive control of markov jump systems: Sample complexity and regret bounds](https://arxiv.org/abs/2111.07018)
   (with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)  
-  arXiv preprint [arXiv:2111.07018](https://arxiv.org/abs/2111.07018). 
 
-- P2. **Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems** 
+- P2. [Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems](https://arxiv.org/abs/2005.09261)
   (with Parvin Nazari, George Michailidis)  
-  arXiv preprint [arXiv:2005.09261](https://arxiv.org/abs/2005.09261).
  
-- P1. **A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints** 
+- P1. [A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints](https://arxiv.org/abs/2011.01201) 
   (with William W. Hager)  
-  arXiv preprint [arXiv:2011.01201](https://arxiv.org/abs/2011.01201).
 
 ## Conferences:
 
-- C14. **Transformers as Support Vector Machines**  
+- C14. [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)  
   (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
 
-- C13. **Max-Margin Token Selection in Attention Mechanism**  
+- C13. [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)  
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.  
   <span style="color:red">[Spotlight (3% Acceptance)]</span>
 
-- C12. **Fair Canonical Correlation Analysis**  
+- C12. [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809) 
   (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
 
-- C11. **Multi-group Tensor Canonical Correlation Analysis**  
+- C11. [Multi-group Tensor Canonical Correlation Analysis](https://dl.acm.org/doi/abs/10.1145/3584371.3612962)  
   (with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)  
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, in press, Houston, TX, September 03-06, 2023.  
   <span style="color:red">[Best Paper Award]</span>
 
-- C10. **Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection**  
+- C10. [Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15)  
   (with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Moore J, Ritchie M, Li Shen L)  
   MLMI'23: The 14th International Workshop on Machine Learning in Medical Imaging, Vancouver, Canada, October 8, 2023.  
 
-- C9. **Fairness-Aware Class Imbalanced Learning on Multiple Subgroups**  
+- C9. [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a) 
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen)  
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.  
 
-- C8. **Margin Maximization in Attention Mechanism**  
+- C8. [Margin Maximization in Attention Mechanism](https://icml.cc/virtual/2023/25891)  
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
   Workshop on High-dimensional Learning Dynamics, International Conference on Machine Learning (ICML), 2023, Honolulu, Hawaii.  
 
-- C7. **FedNest: Federated Bilevel, Minimax, and Compositional Optimization**  
+- C7. [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)  
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)  
   International Conference on Machine Learning (ICML), 2022.  
   <span style="color:red">[Oral (2% Acceptance)]</span>
 
-- C6. **Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds**  
+- C6. [Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds](https://ieeexplore.ieee.org/document/9867863)  
   (with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak)  
   American Control Conference (ACC) Atlanta, GA, (2022).  
 
-- C5. **Certainty Equivalent Quadratic Control for Markov Jump Systems**  
+- C5. [Certainty Equivalent Quadratic Control for Markov Jump Systems](https://ieeexplore.ieee.org/document/9867208)  
   (with Zhe Du, Yahya Sattar, Laura Balzano, Samet Oymak, Necmiye Ozay)  
   American Control Conference (ACC), Atlanta, GA, (2022).  
 
-- C4. **Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds**,  
+- C4. [Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds](https://lyang36.github.io/icml2021_rltheory/camera_ready/85.pdf)  
   (with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)  
   ICML Workshop on Reinforcement Learning Theory, 2021.  
 
-- C3. **Truncated Matrix Completion - An Empirical Study**  
+- C3. [Truncated Matrix Completion - An Empirical Study](https://ieeexplore.ieee.org/document/9909952) 
   (with Rishhabh Naik, Nisarg Trivedi, Laura Balzano)  
   In 30th European Signal Processing Conference (EUSIPCO 2022).  
 
-- C2. **Solving a Class of Nonconvex Min-Max Games Using Adaptive Momentum Methods**  
+- C2. [Solving a Class of Nonconvex Min-Max Games Using Adaptive Momentum Methods](https://ieeexplore.ieee.org/document/9414476)  
   (with Babak Barazandeh, George Michailidis)  
   In ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629. IEEE, (2021).  
 
-- C1. **Online Distributed Estimation of Principal Eigenspaces** 
+- C1. [Online Distributed Estimation of Principal Eigenspaces](https://ieeexplore.ieee.org/abstract/document/8755554?casa_token=qmTFNGRThtsAAAAA:nh83e4onSgi4ieSjd0lvRvDHV2cMeJANYH-l-dXrVVtr7iwUr3Sttl_vEeUoGMLa22J365vSMg) 
   (with Mohamad Kazem Shirani Faradonbeh, George Michailidis)  
   IEEE Data Science Workshop (DSW), Minneapolis, MN, USA, (2019).  
 
