@@ -8,7 +8,8 @@ author_profile: true
 ## Preprints:
 
 - P6. [Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation](https://arxiv.org/abs/2306.01648) 
-  (with Mingchen Li, Pranay Sharma, Samet Oymak)  
+  (with Mingchen Li, Pranay Sharma, Samet Oymak) 
+  [Code](https://github.com/ucr-optml/fedmsa) 
 
 - P5. [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829)  
   (with Laura Balzano)  
@@ -30,16 +31,19 @@ author_profile: true
 - C14. [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)  
   (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
+  [Code](https://github.com/umich-sota/tf-as-svm)
 
 - C13. [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)  
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.  
   <span style="color:red">[Spotlight (3% Acceptance)]</span>
+  [Code](https://github.com/ucr-optml/max_margin_attention)
 
 - C12. [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809) 
   (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
-
+  [Code](https://github.com/pennshenlab/fair_cca)
+ 
 - C11. [Multi-group Tensor Canonical Correlation Analysis](https://dl.acm.org/doi/abs/10.1145/3584371.3612962)  
   (with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)  
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, in press, Houston, TX, September 03-06, 2023.  
@@ -52,6 +56,7 @@ author_profile: true
 - C9. [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a) 
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen)  
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.  
+  [Code](https://github.com/PennShenLab/FACIMS)
 
 - C8. [Margin Maximization in Attention Mechanism](https://icml.cc/virtual/2023/25891)  
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
@@ -61,7 +66,8 @@ author_profile: true
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)  
   International Conference on Machine Learning (ICML), 2022.  
   <span style="color:red">[Oral (2% Acceptance)]</span>
-
+  [Code](https://github.com/ucr-optml/FedNest)
+ 
 - C6. [Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds](https://ieeexplore.ieee.org/document/9867863)  
   (with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak)  
   American Control Conference (ACC) Atlanta, GA, (2022).  
@@ -95,11 +101,13 @@ author_profile: true
 
 - J11. [Dadam: A Consensus-Based Distributed Adaptive Gradient Method for Online Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9973382)  
   (with Parvin Nazari, George Michailidis)  
-  IEEE Transactions on Signal Processing (2022).  
+  IEEE Transactions on Signal Processing (2022). 
+  [Code](https://paperswithcode.com/paper/dadam-a-consensus-based-distributed-adaptive) 
 
 - J10. [Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9756209) 
   (with Kyle Gilman, Laura Balzano)  
   IEEE Transactions on Signal Processing (2022), DOI: 10.1109/TSP.2022.3164837.  
+  [Code](https://github.com/kgilman/TOUCAN)
 
 - J9. [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://epubs.siam.org/doi/abs/10.1137/17M1159932?download=true&journalCode=sjisbi)  
   (with George Michailidis)  
@@ -128,6 +136,7 @@ author_profile: true
 - J3. [A Relaxed Nonmonotone Adaptive Trust Region Method for Solving Unconstrained Optimization Problems](https://link.springer.com/article/10.1007/s10589-015-9726-8)  
   (with Mohammad Reza Peyghami)  
   Computational Optimization and Applications 61, no. 2 (2015): 321-341.  
+  [Code](https://github.com/Tarzanagh/Relaxed-Trust-Region-Methods)
 
 - J2. [A New Trust Region Method for Solving Least-Square Transformation of System of Equalities and Inequalities](https://link.springer.com/article/10.1007/s11590-013-0711-9)
   (with Zeinab Saeidian, Mohammad Reza Peyghami, Hamid Mesgarani)  
