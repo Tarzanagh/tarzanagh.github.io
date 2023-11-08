@@ -89,51 +89,51 @@ author_profile: true
 
 ## Journals:
 
-- J12. **Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data**  
+- J12. [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://www.jmlr.org/papers/volume23/20-1002/20-1002.pdf)
   (with George Michailidis)  
   Journal of Machine Learning Research 21, no.23 (2022).  
 
-- J11. **Dadam: A Consensus-Based Distributed Adaptive Gradient Method for Online Optimization**  
+- J11. [Dadam: A Consensus-Based Distributed Adaptive Gradient Method for Online Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9973382)  
   (with Parvin Nazari, George Michailidis)  
   IEEE Transactions on Signal Processing (2022).  
 
-- J10. **Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD**  
+- J10. [Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9756209) 
   (with Kyle Gilman, Laura Balzano)  
   IEEE Transactions on Signal Processing (2022), DOI: 10.1109/TSP.2022.3164837.  
 
-- J9. **Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data**  
+- J9. [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://epubs.siam.org/doi/abs/10.1137/17M1159932?download=true&journalCode=sjisbi)  
   (with George Michailidis)  
    SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.  
 
-- J8. **Estimation of Graphical Models through Structured Norm Minimization**  
+- J8. [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)  
   (with George Michailidis)  
   Journal of Machine Learning Research 18, no. 1 (2018).  
 
-- J7. **Adaptive Online Distributed Optimization in Dynamic Environments**  
+- J7. [Adaptive Online Distributed Optimization in Dynamic Environments](https://www.tandfonline.com/doi/abs/10.1080/10556788.2019.1637433)  
   (with Parvin Nazari, Esmaile Khorram)  
   Optimization Methods and Software (2019): 1-25.  
 
-- J6. **A Nonmonotone PRP Conjugate Gradient Method for Solving Square and Under-Determined Systems of Equations**  
+- J6. [A Nonmonotone PRP Conjugate Gradient Method for Solving Square and Under-Determined Systems of Equations](https://www.sciencedirect.com/science/article/pii/S0898122116306587)  
   (with Mohammad Reza Peyghami)  
   Computers & Mathematics with Applications 73, no. 2 (2017): 339-354.  
 
-- J5. **A New Nonmonotone Adaptive Retrospective Trust Region Method for Unconstrained Optimization Problems**  
+- J5. [A New Nonmonotone Adaptive Retrospective Trust Region Method for Unconstrained Optimization Problems](https://link.springer.com/article/10.1007/s10957-015-0790-0)  
   (with Mohammad Reza Peyghami, Fabian Bastin)  
   Journal of Optimization Theory and Applications 167, no. 2 (2015): 676-692.  
 
-- J4. **A New Regularized Limited Memory BFGS-Type Method Based on Modified Secant Conditions for Unconstrained Optimization Problems**  
+- J4. [A New Regularized Limited Memory BFGS-Type Method Based on Modified Secant Conditions for Unconstrained Optimization Problems](https://link.springer.com/article/10.1007/s10898-015-0310-7) 
   (with Mohammad Reza Peyghami)  
   Journal of Global Optimization 63, no. 4 (2015): 709-728.  
 
-- J3. **A Relaxed Nonmonotone Adaptive Trust Region Method for Solving Unconstrained Optimization Problems**  
+- J3. [A Relaxed Nonmonotone Adaptive Trust Region Method for Solving Unconstrained Optimization Problems](https://link.springer.com/article/10.1007/s10589-015-9726-8)  
   (with Mohammad Reza Peyghami)  
   Computational Optimization and Applications 61, no. 2 (2015): 321-341.  
 
-- J2. **A New Trust Region Method for Solving Least-Square Transformation of System of Equalities and Inequalities**  
+- J2. [A New Trust Region Method for Solving Least-Square Transformation of System of Equalities and Inequalities](https://link.springer.com/article/10.1007/s11590-013-0711-9)
   (with Zeinab Saeidian, Mohammad Reza Peyghami, Hamid Mesgarani)  
   Optimization Letters 9, no. 2 (2015): 283-310.   
 
-- J1. **A New Nonmonotone Trust Region Method for Unconstrained Optimization Equipped by an Efficient Adaptive Radius**  
+- J1. [A New Nonmonotone Trust Region Method for Unconstrained Optimization Equipped by an Efficient Adaptive Radius](https://www.tandfonline.com/doi/abs/10.1080/10556788.2013.855761)  
   (with Mohammad Reza Peyghami, Hamid Mesgarani)  
   Optimization Methods and Software 29, no. 4 (2014): 819-836.
 
