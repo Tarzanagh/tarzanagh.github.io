@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints:
+## Preprint:
 
 - P6. <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
   <span style="display: block;">(with Mingchen Li, Pranay Sharma, Samet Oymak)</span>
@@ -28,9 +28,7 @@ author_profile: true
 
 
 
-## Conferences:
-
-## Conferences:
+## Conference/Workshop:
 
 - C14. <a href="https://arxiv.org/abs/2308.16898">Transformers as Support Vector Machines</a><br>
   <span style="display: block;">(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
@@ -97,7 +95,7 @@ author_profile: true
   IEEE Data Science Workshop (DSW), Minneapolis, MN, USA, (2019).
 
 
-## Journals:
+## Journal:
 
 - J12. [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://www.jmlr.org/papers/volume23/20-1002/20-1002.pdf)
   (with George Michailidis)  
