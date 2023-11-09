@@ -11,88 +11,90 @@ author_profile: true
   <span style="display: block;">(with Mingchen Li, Pranay Sharma, Samet Oymak)</span>
   <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
+- P5. <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
+  <span style="display: block;">(with Laura Balzano)</span>
 
-- P5. [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829)  
-  (with Laura Balzano)  
+- P4. <a href="https://arxiv.org/abs/2112.05128">Fair Structure Learning in Heterogeneous Graphical Models</a><br>
+  <span style="display: block;">(with Laura Balzano, Alfred O. Hero)</span>
 
-- P4. [Fair Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/abs/2112.05128)  
-  (with Laura Balzano, Alfred O. Hero)  
+- P3. <a href="https://arxiv.org/abs/2111.07018">Identification and adaptive control of Markov jump systems: Sample complexity and regret bounds</a><br>
+  <span style="display: block;">(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)</span>
 
-- P3. [Identification and adaptive control of Markov jump systems: Sample complexity and regret bounds](https://arxiv.org/abs/2111.07018)
-  (with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)  
+- P2. <a href="https://arxiv.org/abs/2005.09261">Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems</a><br>
+  <span style="display: block;">(with Parvin Nazari, George Michailidis)</span>
 
-- P2. [Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems](https://arxiv.org/abs/2005.09261)
-  (with Parvin Nazari, George Michailidis)  
+- P1. <a href="https://arxiv.org/abs/2011.01201">A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints</a><br>
+  <span style="display: block;">(with William W. Hager)</span>
 
-- P1. [A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints](https://arxiv.org/abs/2011.01201) 
-  (with William W. Hager)  
 
 
 ## Conferences:
 
-- C14. [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)  
-  (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
+## Conferences:
+
+- C14. <a href="https://arxiv.org/abs/2308.16898">Transformers as Support Vector Machines</a><br>
+  <span style="display: block;">(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
-  ![Code](https://github.com/umich-sota/tf-as-svm)
+  <a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-- C13. [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)  
-  (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
-  Conference on Neural Information Processing Systems (NeurIPS), 2023.  
-  <span style="color:violet">[Spotlight (3% Acceptance)]</span>
-  ![Code](https://github.com/ucr-optml/max_margin_attention)
+- C13. <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
+  <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
+  Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
+  <span style="color:red">[Spotlight (3% Acceptance)]</span>
+  <a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-- C12. [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809) 
-  (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)  
+- C12. <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
+  <span style="display: block;">(with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
-  ![Code](https://github.com/pennshenlab/fair_cca)
- 
-- C11. [Multi-group Tensor Canonical Correlation Analysis](https://dl.acm.org/doi/abs/10.1145/3584371.3612962)  
-  (with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)  
-  ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, in press, Houston, TX, September 03-06, 2023.  
-  <span style="color:violet">[Best Paper Award]</span>
+  <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-- C10. [Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15)  
-  (with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Moore J, Ritchie M, Li Shen L)  
-  MLMI'23: The 14th International Workshop on Machine Learning in Medical Imaging, Vancouver, Canada, October 8, 2023.  
+- C11. <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
+  <span style="display: block;">(with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
+  ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, in press, Houston, TX, September 03-06, 2023.<br>
+  <span style="color:red">[Best Paper Award]</span>
 
-- C9. [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a) 
-  (with Bojian Hou, Boning Tong, Qi Long, and Li Shen)  
-  In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.  
-  ![Code](https://github.com/PennShenLab/FACIMS)
+- C10. <a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15">Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection</a><br>
+  <span style="display: block;">(with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Moore J, Ritchie M, Li Shen L)</span>
+  MLMI'23: The 14th International Workshop on Machine Learning in Medical Imaging, Vancouver, Canada, October 8, 2023.
 
-- C8. [Margin Maximization in Attention Mechanism](https://icml.cc/virtual/2023/25891)  
-  (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
-  Workshop on High-dimensional Learning Dynamics, International Conference on Machine Learning (ICML), 2023, Honolulu, Hawaii.  
+- C9. <a href="https://proceedings.mlr.press/v216/tarzanagh23a">Fairness-Aware Class Imbalanced Learning on Multiple Subgroups</a><br>
+  <span style="display: block;">(with Bojian Hou, Boning Tong, Qi Long, and Li Shen)</span>
+  In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.<br>
+  <a href="https://github.com/PennShenLab/FACIMS" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-- C7. [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)  
-  (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)  
-  International Conference on Machine Learning (ICML), 2022.  
-  <span style="color:violet">[Oral (2% Acceptance)]</span>
-  ![Code](https://github.com/ucr-optml/FedNest)
- 
-- C6. [Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds](https://ieeexplore.ieee.org/document/9867863)  
-  (with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak)  
-  American Control Conference (ACC) Atlanta, GA, (2022).  
+- C8. <a href="https://icml.cc/virtual/2023/25891">Margin Maximization in Attention Mechanism</a><br>
+  <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
+  Workshop on High-dimensional Learning Dynamics, International Conference on Machine Learning (ICML), 2023, Honolulu, Hawaii.
 
-- C5. [Certainty Equivalent Quadratic Control for Markov Jump Systems](https://ieeexplore.ieee.org/document/9867208)  
-  (with Zhe Du, Yahya Sattar, Laura Balzano, Samet Oymak, Necmiye Ozay)  
-  American Control Conference (ACC), Atlanta, GA, (2022).  
+- C7. <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
+  <span style="display: block;">(with Mingchen Li, Christos Thrampoulidis, Samet Oymak)</span>
+  International Conference on Machine Learning (ICML), 2022.<br>
+  <span style="color:red">[Oral (2% Acceptance)]</span>
+  <a href="https://github.com/ucr-optml/FedNest" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-- C4. [Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds](https://lyang36.github.io/icml2021_rltheory/camera_ready/85.pdf)  
-  (with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)  
-  ICML Workshop on Reinforcement Learning Theory, 2021.  
+- C6. <a href="https://ieeexplore.ieee.org/document/9867863">Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
+  <span style="display: block;">(with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak)</span>
+  American Control Conference (ACC) Atlanta, GA, (2022).
 
-- C3. [Truncated Matrix Completion - An Empirical Study](https://ieeexplore.ieee.org/document/9909952) 
-  (with Rishhabh Naik, Nisarg Trivedi, Laura Balzano)  
-  In 30th European Signal Processing Conference (EUSIPCO 2022).  
+- C5. <a href="https://ieeexplore.ieee.org/document/9867208">Certainty Equivalent Quadratic Control for Markov Jump Systems</a><br>
+  <span style="display: block;">(with Zhe Du, Yahya Sattar, Laura Balzano, Samet Oymak, Necmiye Ozay)</span>
+  American Control Conference (ACC), Atlanta, GA, (2022).
 
-- C2. [Solving a Class of Nonconvex Min-Max Games Using Adaptive Momentum Methods](https://ieeexplore.ieee.org/document/9414476)  
-  (with Babak Barazandeh, George Michailidis)  
-  In ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629. IEEE, (2021).  
+- C4. <a href="https://lyang36.github.io/icml2021_rltheory/camera_ready/85.pdf">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
+  <span style="display: block;">(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)</span>
+  ICML Workshop on Reinforcement Learning Theory, 2021.
 
-- C1. [Online Distributed Estimation of Principal Eigenspaces](https://ieeexplore.ieee.org/abstract/document/8755554?casa_token=qmTFNGRThtsAAAAA:nh83e4onSgi4ieSjd0lvRvDHV2cMeJANYH-l-dXrVVtr7iwUr3Sttl_vEeUoGMLa22J365vSMg) 
-  (with Mohamad Kazem Shirani Faradonbeh, George Michailidis)  
-  IEEE Data Science Workshop (DSW), Minneapolis, MN, USA, (2019).  
+- C3. <a href="https://ieeexplore.ieee.org/document/9909952">Truncated Matrix Completion - An Empirical Study</a><br>
+  <span style="display: block;">(with Rishhabh Naik, Nisarg Trivedi, Laura Balzano)</span>
+  In 30th European Signal Processing Conference (EUSIPCO 2022).
+
+- C2. <a href="https://ieeexplore.ieee.org/document/9414476">Solving a Class of Nonconvex Min-Max Games Using Adaptive Momentum Methods</a><br>
+  <span style="display: block;">(with Babak Barazandeh, George Michailidis)</span>
+  In ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629. IEEE, (2021).
+
+- C1. <a href="https://ieeexplore.ieee.org/abstract/document/8755554?casa_token=qmTFNGRThtsAAAAA:nh83e4onSgi4ieSjd0lvRvDHV2cMeJANYH-l-dXrVVtr7iwUr3Sttl_vEeUoGMLa22J365vSMg">Online Distributed Estimation of Principal Eigenspaces</a><br>
+  <span style="display: block;">(with Mohamad Kazem Shirani Faradonbeh, George Michailidis)</span>
+  IEEE Data Science Workshop (DSW), Minneapolis, MN, USA, (2019).
 
 
 ## Journals:
