@@ -7,9 +7,10 @@ author_profile: true
 
 ## Preprints:
 
-- P6. [Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation](https://arxiv.org/abs/2306.01648) 
-  (with Mingchen Li, Pranay Sharma, Samet Oymak)  
-  <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #007bff; color: white; padding: 8px; border-radius: 4px; text-decoration: none;">Code</a>
+- P6. <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
+  <span style="display: block;">(with Mingchen Li, Pranay Sharma, Samet Oymak)</span>
+  <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+
 
 - P5. [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829)  
   (with Laura Balzano)  
