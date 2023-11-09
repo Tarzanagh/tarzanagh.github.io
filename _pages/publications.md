@@ -9,7 +9,7 @@ author_profile: true
 
 - P6. [Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation](https://arxiv.org/abs/2306.01648) 
   (with Mingchen Li, Pranay Sharma, Samet Oymak) 
-  [Code](https://github.com/ucr-optml/fedmsa) 
+  ![Code](https://github.com/ucr-optml/fedmsa) 
 
 - P5. [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829)  
   (with Laura Balzano)  
@@ -31,23 +31,23 @@ author_profile: true
 - C14. [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)  
   (with Yingcong Li, Christos Thrampoulidis, Samet Oymak)  
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
-  [Code](https://github.com/umich-sota/tf-as-svm)
+  ![Code](https://github.com/umich-sota/tf-as-svm)
 
 - C13. [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)  
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.  
-  <span style="color:red">[Spotlight (3% Acceptance)]</span>
-  [Code](https://github.com/ucr-optml/max_margin_attention)
+  <span style="color:violet">[Spotlight (3% Acceptance)]</span>
+  ![Code](https://github.com/ucr-optml/max_margin_attention)
 
 - C12. [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809) 
   (with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)  
   Conference on Neural Information Processing Systems (NeurIPS), 2023.
-  [Code](https://github.com/pennshenlab/fair_cca)
+  ![Code](https://github.com/pennshenlab/fair_cca)
  
 - C11. [Multi-group Tensor Canonical Correlation Analysis](https://dl.acm.org/doi/abs/10.1145/3584371.3612962)  
   (with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)  
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, in press, Houston, TX, September 03-06, 2023.  
-  <span style="color:red">[Best Paper Award]</span>
+  <span style="color:violet">[Best Paper Award]</span>
 
 - C10. [Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15)  
   (with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Moore J, Ritchie M, Li Shen L)  
@@ -56,7 +56,7 @@ author_profile: true
 - C9. [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a) 
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen)  
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.  
-  [Code](https://github.com/PennShenLab/FACIMS)
+  ![Code](https://github.com/PennShenLab/FACIMS)
 
 - C8. [Margin Maximization in Attention Mechanism](https://icml.cc/virtual/2023/25891)  
   (with Yingcong Li, Xuechen Zhang, Samet Oymak)  
@@ -65,8 +65,8 @@ author_profile: true
 - C7. [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)  
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)  
   International Conference on Machine Learning (ICML), 2022.  
-  <span style="color:red">[Oral (2% Acceptance)]</span>
-  [Code](https://github.com/ucr-optml/FedNest)
+  <span style="color:violet">[Oral (2% Acceptance)]</span>
+  ![Code](https://github.com/ucr-optml/FedNest)
  
 - C6. [Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds](https://ieeexplore.ieee.org/document/9867863)  
   (with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak)  
