@@ -10,6 +10,13 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 
 ## Research Interests
 
+### High-Dimensional and Tensorial Data Analysis
+- [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)
+  (with George Michailidis),
+  The Journal of Machine Learning Research 23, no. 1 (2022): 13162-13210
+- [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)
+  (with George Michailidis),
+  The Journal of Machine Learning Research 18, no. 1 (2018): 1-48.
   
 ### Inductive Bias of Transformers and Large Language Models
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
@@ -26,14 +33,6 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
   Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
-
-### High-Dimensional and Tensorial Data Analysis
-- [Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data](https://arxiv.org/abs/1704.04362)
-  (with George Michailidis),
-  SIAM Journal on Imaging Sciences 11, no. 4 (2018): 2629-2664.
-- [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)
-  (with George Michailidis),
-  Journal of Machine Learning Research 18, no. 1 (2018).
 
 ### Optimization Algorithms for Machine Learning Problems
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
