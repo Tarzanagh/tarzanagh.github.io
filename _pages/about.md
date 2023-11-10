@@ -26,7 +26,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
  
-### Fairness in Machine Learning
+### Fairness in Machine Learning and Data Analysis
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
   Neural Information Processing Systems (NeurIPS), 2023.
@@ -34,7 +34,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
   Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
 
-### Optimization Algorithms for Machine Learning Problems
+### Optimization Algorithms for Machine Learning
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
   International Conference on Machine Learning (ICML), 2022.    
