@@ -14,7 +14,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 - [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)
   (with George Michailidis),
   Journal of Machine Learning Research 23, no. 1 (2022): 13162-13210
-- [Estimation of Graphical Models through Structured Norm Minimization](https://arxiv.org/abs/1609.09010)
+- [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)
   (with George Michailidis),
   Journal of Machine Learning Research 18, no. 1 (2018): 1-48.
   
