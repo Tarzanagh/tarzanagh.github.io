@@ -68,7 +68,6 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 - C7. <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)<br>
   International Conference on Machine Learning (ICML), 2022.<br>
- 
   <a href="https://github.com/ucr-optml/FedNest" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
   <a href="https://icml.cc/media/icml-2022/Slides/17792_OrkxOe6.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
   [Oral (2% Acceptance)]
