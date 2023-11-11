@@ -30,21 +30,21 @@ author_profile: true
 
 ## Conference/Workshop:
 
-- C14. <a href="https://arxiv.org/abs/2308.16898">Transformers as Support Vector Machines</a><br>
-  <span style="display: block;">(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
-  NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
-  <a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+- C14.  C14. <a href="https://arxiv.org/abs/2308.16898">Transformers as Support Vector Machines</a><br>
+<span style="display: block;">(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
+NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.<br>
+<a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - C13. <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
-  <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
-  Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
-  <span style="color:red">[Spotlight (3% Acceptance)]</span>
-  <a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+<span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
+Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
+<span style="color:red">[Spotlight (3% Acceptance)]</span><br>
+<a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - C12. <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
-  <span style="display: block;">(with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
-  Conference on Neural Information Processing Systems (NeurIPS), 2023.
-  <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+<span style="display: block;">(with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
+Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
+<a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - C11. <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
