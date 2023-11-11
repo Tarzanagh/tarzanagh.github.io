@@ -45,8 +45,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 - C12. <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
   Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
-  <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a><br>
-  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
+  <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a><br> <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
 
 
 
