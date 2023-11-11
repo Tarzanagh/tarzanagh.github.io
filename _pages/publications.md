@@ -47,8 +47,6 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
 
-
-
 - C11. <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, in press, Houston, TX, September 03-06, 2023.<br>
@@ -67,7 +65,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
   Workshop on High-dimensional Learning Dynamics, International Conference on Machine Learning (ICML), 2023, Honolulu, Hawaii.
 
-- - C7. <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
+- C7. <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)<br>
   International Conference on Machine Learning (ICML), 2022.<br>
  
