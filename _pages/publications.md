@@ -17,7 +17,7 @@ author_profile: true
 - P4. <a href="https://arxiv.org/abs/2112.05128">Fair Structure Learning in Heterogeneous Graphical Models</a><br>
   <span style="display: block;">(with Laura Balzano, Alfred O. Hero)</span>
 
-- P3. <a href="https://arxiv.org/abs/2111.07018">Identification and adaptive control of Markov jump systems: Sample complexity and regret bounds</a><br>
+- P3. <a href="https://arxiv.org/abs/2111.07018">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
   <span style="display: block;">(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)</span>
 
 - P2. <a href="https://arxiv.org/abs/2005.09261">Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems</a><br>
