@@ -53,11 +53,11 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <span style="color:red">Best Paper Award</span>
 
 - C10. <a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15">Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection</a><br>
-  <span style="display: block;">(with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Moore J, Ritchie M, Li Shen L)</span>
+  <span style="display: block;">(with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Jason H. Moore, Marylyn D Ritchie, Li Shen )</span>
   MLMI'23: The 14th International Workshop on Machine Learning in Medical Imaging, Vancouver, Canada, October 8, 2023.
 
 - C9. <a href="https://proceedings.mlr.press/v216/tarzanagh23a">Fairness-Aware Class Imbalanced Learning on Multiple Subgroups</a><br>
-  <span style="display: block;">(with Bojian Hou, Boning Tong, Qi Long, and Li Shen)</span>
+  <span style="display: block;">(with Bojian Hou, Boning Tong, Qi Long, Li Shen)</span>
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.<br>
   <a href="https://github.com/PennShenLab/FACIMS" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
