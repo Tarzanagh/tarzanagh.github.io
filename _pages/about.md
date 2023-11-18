@@ -10,6 +10,13 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 
 ## Research Interests
 
+### Optimization Algorithms for Machine Learning
+- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
+  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
+  International Conference on Machine Learning (ICML), 2022.    
+- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
+  arXiv preprint arXiv:2207.02829.
+
 ### High-Dimensional and Tensorial Data Analysis
 - [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)
   (with George Michailidis),
@@ -33,11 +40,4 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
   Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
-
-### Optimization Algorithms for Machine Learning
-- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
-  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
-  International Conference on Machine Learning (ICML), 2022.    
-- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
-  arXiv preprint arXiv:2207.02829.
 
