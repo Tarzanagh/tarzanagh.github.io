@@ -14,7 +14,7 @@ author_profile: true
 - P5. <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span style="display: block;">(with Laura Balzano)</span>
 
-- P4. <a href="https://arxiv.org/abs/2112.05128">Fair Structure Learning in Heterogeneous Graphical Models</a><br>
+- P4. <a href="https://arxiv.org/abs/2112.05128">Fair Community Detection and Structure Learning in Heterogeneous Graphical Models</a><br>
   <span style="display: block;">(with Laura Balzano, Alfred O. Hero)</span>
 
 - P3. <a href="https://arxiv.org/abs/2111.07018">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
