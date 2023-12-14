@@ -13,7 +13,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ### Optimization Algorithms for Machine Learning
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
-  International Conference on Machine Learning (ICML), 2022.    
+  International Conference on Machine Learning, 2022.    
 - [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
   arXiv preprint arXiv:2207.02829.
 
@@ -28,7 +28,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ### Inductive Bias of Transformers and Large Language Models 
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
-  Neural Information Processing Systems (NeurIPS), 2023.  
+  Neural Information Processing Systems, 2023.  
 - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
@@ -36,8 +36,8 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ### Fairness in Machine Learning
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
-  Neural Information Processing Systems (NeurIPS), 2023.
+  Neural Information Processing Systems, 2023.
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
   (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
-  Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.
+  Uncertainty in Artificial Intelligence, pp. 2123-2133. PMLR, 2023.
 
