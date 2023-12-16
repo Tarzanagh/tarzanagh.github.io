@@ -46,6 +46,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCA.png" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 - C11. <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
