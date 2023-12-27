@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Dissertation: 
+
+<a href="https://original-ufdc.uflib.ufl.edu/UFE0056816/00001">Numerical Optimization Methods and Theory for Large-Scale Machine Learning Problems  
+
 ## Preprint:
 
 - P6. <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
