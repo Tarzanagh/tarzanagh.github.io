@@ -26,7 +26,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   Journal of Machine Learning Research 18, no. 1 (2018): 1-48.
   
 ### Inductive Bias of Transformers and Large Language Models 
-- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596.pdf)
+- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
   Neural Information Processing Systems, 2023.  
 - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898.pdf)
