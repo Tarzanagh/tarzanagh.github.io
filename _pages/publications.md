@@ -100,7 +100,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   Journal of Machine Learning Research 21, no.23 (2022).<br>
   <a href="https://github.com/tarzanagh/dcot" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9756209">Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD</a><br>
+- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9756209">Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD</a><br>
   <span style="display: block;">(with Kyle Gilman, Laura Balzano)</span>
   IEEE Transactions on Signal Processing (2022), DOI: 10.1109/TSP.2022.3164837.<br>
   <a href="https://github.com/kgilman/TOUCAN" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
