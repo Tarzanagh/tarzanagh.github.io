@@ -61,7 +61,6 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <span style="display: block;">(with Bojian Hou, Boning Tong, Qi Long, Li Shen)</span>
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.<br>
   <a href="https://github.com/PennShenLab/FACIMS" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
-  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/UAI2023.key" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files//LDI_uai23_poster 2.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 
