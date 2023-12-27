@@ -136,7 +136,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   Journal of Machine Learning Research 18, no. 1 (2018).
 
 
-## <= 2017:
+## ≤ 2017:
  
 - <a href="https://www.sciencedirect.com/science/article/pii/S0898122116306587">A Nonmonotone PRP Conjugate Gradient Method for Solving Square and Under-Determined Systems of Equations</a><br>
   <span style="display: block;">(with Mohammad Reza Peyghami)</span>
