@@ -84,7 +84,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 
 - <a href="https://ieeexplore.ieee.org/document/9867863">Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
   <span style="display: block;">(with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak)</span>
-  American Control Conference (ACC) Atlanta, 2022.
+  American Control Conference (ACC), 2022.
 
 - <a href="https://ieeexplore.ieee.org/document/9867208">Certainty Equivalent Quadratic Control for Markov Jump Systems</a><br>
   <span style="display: block;">(with Zhe Du, Yahya Sattar, Laura Balzano, Samet Oymak, Necmiye Ozay)</span>
