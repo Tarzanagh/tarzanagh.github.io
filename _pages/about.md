@@ -29,7 +29,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
   Neural Information Processing Systems, 2023.  
-- [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898.pdf)
+- [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
  
