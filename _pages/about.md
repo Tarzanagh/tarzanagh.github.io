@@ -26,15 +26,15 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   Journal of Machine Learning Research 18, no. 1 (2018): 1-48.
   
 ### Inductive Bias of Transformers and Large Language Models 
-- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596)
+- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/abs/2306.13596.pdf)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
   Neural Information Processing Systems, 2023.  
-- [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
+- [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898.pdf)
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
   NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
  
 ### Fairness in Machine Learning
-- [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809)
+- [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809.pdf)
   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
   Neural Information Processing Systems, 2023.
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
