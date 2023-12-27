@@ -148,7 +148,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 
 - <a href="https://link.springer.com/article/10.1007/s10957-015-0790-0">A New Nonmonotone Adaptive Retrospective Trust Region Method for Unconstrained Optimization Problems</a><br>
   <span style="display: block;">(with Mohammad Reza Peyghami, Fabian Bastin)</span>
-  Journal of Optimization Theory and Applications 167, no. 2 (2015): 676-692.
+  Journal of Optimization Theory and Applications 167, no. 2: 676-692,  2015.
 
 - <a href="https://link.springer.com/article/10.1007/s10898-015-0310-7">A New Regularized Limited Memory BFGS-Type Method Based on Modified Secant Conditions for Unconstrained Optimization Problems</a><br>
   <span style="display: block;">(with Mohammad Reza Peyghami)</span>
@@ -156,7 +156,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 
 - <a href="https://link.springer.com/article/10.1007/s10589-015-9726-8">A Relaxed Nonmonotone Adaptive Trust Region Method for Solving Unconstrained Optimization Problems</a><br>
   <span style="display: block;">(with Mohammad Reza Peyghami)</span>
-  Computational Optimization and Applications 61, no. 2: 321-341, (2015). <br>
+  Computational Optimization and Applications 61, no. 2: 321-341, 2015. <br>
   <a href="https://github.com/Tarzanagh/Relaxed-Trust-Region-Methods" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://link.springer.com/article/10.1007/s11590-013-0711-9">A New Trust Region Method for Solving Least-Square Transformation of System of Equalities and Inequalities</a><br>
