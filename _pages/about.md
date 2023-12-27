@@ -11,10 +11,10 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ## Research Interests
 
 ### Optimization Algorithms for Machine Learning
-- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215)
+- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/abs/2205.02215.pdf)
   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
   International Conference on Machine Learning, 2022.    
-- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829) (with Laura Balzano),
+- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/abs/2207.02829.pdf) (with Laura Balzano),
   arXiv preprint arXiv:2207.02829.
 
 ### High-Dimensional and Tensorial Data Analysis
