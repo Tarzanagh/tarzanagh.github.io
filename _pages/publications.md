@@ -13,7 +13,7 @@ author_profile: true
 
 - <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
 <span style="display: block;">(with Mingchen Li, Pranay Sharma, Samet Oymak)</span>
-<a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+<a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span style="display: block;">(with Laura Balzano)</span>
@@ -36,9 +36,9 @@ author_profile: true
 - <a href="https://arxiv.org/abs/2308.16898">Transformers as Support Vector Machines</a><br>
 <span style="display: block;">(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
 NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.<br>
-<a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
-<a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
-<a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
+<a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
+<a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
+<a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 
 
@@ -49,15 +49,15 @@ Automatica (Provisionally Accepted), 2023.<br>
 - <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
 <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
 Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
-<a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/MMslide.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
+<a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/MMslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
 <span style="color:red">Spotlight (3% Acceptance)</span>
 
 - <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
   Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
-  <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
-  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
-  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCA.png" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
+  <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCA.png" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 - <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
@@ -71,8 +71,8 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 - <a href="https://proceedings.mlr.press/v216/tarzanagh23a">Fairness-Aware Class Imbalanced Learning on Multiple Subgroups</a><br>
   <span style="display: block;">(with Bojian Hou, Boning Tong, Qi Long, Li Shen)</span>
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.<br>
-  <a href="https://github.com/PennShenLab/FACIMS" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
-  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files//LDI_uai23_poster 2.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
+  <a href="https://github.com/PennShenLab/FACIMS" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files//LDI_uai23_poster 2.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 - <a href="https://icml.cc/virtual/2023/25891">Margin Maximization in Attention Mechanism</a><br>
   <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
@@ -82,8 +82,8 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 - <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)<br>
   International Conference on Machine Learning (ICML), 2022.<br>
-  <a href="https://github.com/ucr-optml/FedNest" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
-  <a href="https://icml.cc/media/icml-2022/Slides/17792_OrkxOe6.pdf" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
+  <a href="https://github.com/ucr-optml/FedNest" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
+  <a href="https://icml.cc/media/icml-2022/Slides/17792_OrkxOe6.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
   <span style="color:red">Oral (2% Acceptance)
 
 - <a href="https://ieeexplore.ieee.org/document/9867863">Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
@@ -101,17 +101,17 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9973382">Dadam: A Consensus-Based Distributed Adaptive Gradient Method for Online Optimization</a><br>
   <span style="display: block;">(with Parvin Nazari, George Michailidis)</span>
   IEEE Transactions on Signal Processing, 2022.<br>
-  <a href="https://paperswithcode.com/paper/dadam-a-consensus-based-distributed-adaptive" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+  <a href="https://paperswithcode.com/paper/dadam-a-consensus-based-distributed-adaptive" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://www.jmlr.org/papers/volume23/20-1002/20-1002.pdf">Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data</a><br>
   <span style="display: block;">(with George Michailidis)</span>
   Journal of Machine Learning Research 21, no.23, 2022.<br>
-  <a href="https://github.com/tarzanagh/dcot" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+  <a href="https://github.com/tarzanagh/dcot" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9756209">Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD</a><br>
   <span style="display: block;">(with Kyle Gilman, Laura Balzano)</span>
   IEEE Transactions on Signal Processing, DOI: 10.1109/TSP.2022.3164837, 2022.<br>
-  <a href="https://github.com/kgilman/TOUCAN" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+  <a href="https://github.com/kgilman/TOUCAN" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 ## 2021:
 
@@ -161,7 +161,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 - <a href="https://link.springer.com/article/10.1007/s10589-015-9726-8">A Relaxed Nonmonotone Adaptive Trust Region Method for Solving Unconstrained Optimization Problems</a><br>
   <span style="display: block;">(with Mohammad Reza Peyghami)</span>
   Computational Optimization and Applications 61, no. 2: 321-341, 2015. <br>
-  <a href="https://github.com/Tarzanagh/Relaxed-Trust-Region-Methods" style="display: inline-block; background-color: #007bff; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+  <a href="https://github.com/Tarzanagh/Relaxed-Trust-Region-Methods" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://link.springer.com/article/10.1007/s11590-013-0711-9">A New Trust Region Method for Solving Least-Square Transformation of System of Equalities and Inequalities</a><br>
   <span style="display: block;">(with Zeinab Saeidian, Mohammad Reza Peyghami, Hamid Mesgarani)</span>
