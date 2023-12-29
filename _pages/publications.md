@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Preprint:
+## Preprint
 
 - <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
 <span style="display: block;">(with Mingchen Li, Pranay Sharma, Samet Oymak)</span>
@@ -28,7 +28,7 @@ author_profile: true
   <span style="display: block;">(with William W. Hager)</span>
 
 
-## 2023:
+## 2023
 
 - <a href="https://arxiv.org/abs/2308.16898">Transformers as Support Vector Machines</a><br>
 <span style="display: block;">(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
@@ -75,7 +75,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
   ICML Workshop on High-dimensional Learning Dynamics, 2023.
 
-## 2022:
+## 2022
 - <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
   (with Mingchen Li, Christos Thrampoulidis, Samet Oymak)<br>
   International Conference on Machine Learning (ICML), 2022.<br>
@@ -110,7 +110,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   IEEE Transactions on Signal Processing, DOI: 10.1109/TSP.2022.3164837, 2022.<br>
   <a href="https://github.com/kgilman/TOUCAN" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-## 2021:
+## 2021
 
 - <a href="https://lyang36.github.io/icml2021_rltheory/camera_ready/85.pdf">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
   <span style="display: block;">(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, Samet Oymak)</span>
@@ -120,7 +120,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <span style="display: block;">(with Babak Barazandeh, George Michailidis)</span>
   In ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629, 2021.
 
-## 2019:
+## 2019
 
 -  <a href="https://ieeexplore.ieee.org/abstract/document/8755554?casa_token=qmTFNGRThtsAAAAA:nh83e4onSgi4ieSjd0lvRvDHV2cMeJANYH-l-dXrVVtr7iwUr3Sttl_vEeUoGMLa22J365vSMg">Online Distributed Estimation of Principal Eigenspaces</a><br>
   <span style="display: block;">(with Mohamad Kazem Shirani Faradonbeh, George Michailidis)</span>
@@ -130,7 +130,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <span style="display: block;">(with Parvin Nazari, Esmaile Khorram)</span>
   Optimization Methods and Software, 1-25, 2019. 
 
-## 2018:
+## 2018
 
 - <a href="https://epubs.siam.org/doi/abs/10.1137/17M1159932?download=true&journalCode=sjisbi">Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data</a><br>
   <span style="display: block;">(with George Michailidis)</span>
@@ -141,7 +141,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   Journal of Machine Learning Research 18, no. 1, 2018.
 
 
-## ≤ 2017:
+## ≤ 2017
  
 - <a href="https://www.sciencedirect.com/science/article/pii/S0898122116306587">A Nonmonotone PRP Conjugate Gradient Method for Solving Square and Under-Determined Systems of Equations</a><br>
   <span style="display: block;">(with Mohammad Reza Peyghami)</span>
