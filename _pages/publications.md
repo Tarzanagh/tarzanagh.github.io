@@ -47,7 +47,7 @@ Automatica (Provisionally Accepted), 2023.<br>
 <span style="display: block;">(with Yingcong Li, Xuechen Zhang, Samet Oymak)</span>
 Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 <a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/MMslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
-<span style="color:red">Spotlight (~3% Acceptance)</span>
+<span style="color:#990033">Spotlight (~3% Acceptance)</span>
 
 - <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
@@ -59,7 +59,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 - <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023.<br>
-  <span style="color:red">Best Paper Award</span>
+  <span style="color:#990033">Best Paper Award</span>
 
 - <a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15">Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection</a><br>
   <span style="display: block;">(with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Jason H. Moore, Marylyn D Ritchie, Li Shen )</span>
@@ -81,7 +81,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   International Conference on Machine Learning (ICML), 2022.<br>
   <a href="https://github.com/ucr-optml/FedNest" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
   <a href="https://icml.cc/media/icml-2022/Slides/17792_OrkxOe6.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
-  <span style="color:red">Oral (~2% Acceptance)
+  <span style="color:#990033">Oral (~2% Acceptance)
 
 - <a href="https://ieeexplore.ieee.org/document/9867863">Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
   <span style="display: block;">(with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, Samet Oymak)</span>
