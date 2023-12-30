@@ -50,14 +50,14 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
 <span style="color:#990033">Spotlight (≈3% Acceptance)</span>
 
 - <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
-  <span style="display: block;">(with Zhou, Zhuoping, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
+  <span style="display: block;">(with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, Li Shen)</span>
   Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCA.png" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 - <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
-  <span style="display: block;">(with Zhou, Zhuoping, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
+  <span style="display: block;">(with Zhuoping Zhou, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023.<br>
   <span style="color:#990033">Best Paper Award</span>
 
