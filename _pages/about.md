@@ -31,7 +31,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   Neural Information Processing Systems, 2023.  
 - [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
-  NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
+  A preliminary version appeared in the NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
  
 ### Fairness in Machine Learning
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809.pdf)
