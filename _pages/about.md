@@ -13,31 +13,30 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 ### Optimization Algorithms for Machine Learning
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)
   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
-  International Conference on Machine Learning, 2022.    
+  ICML, 2022.    
 - [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/pdf/2207.02829.pdf) (with Laura Balzano),
   arXiv preprint arXiv:2207.02829.
 
 ### High-Dimensional and Tensorial Data Analysis
 - [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)
   (with George Michailidis),
-  Journal of Machine Learning Research 23, no. 1 (2022): 13162-13210
+  JMLR, 2022.
 - [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)
   (with George Michailidis),
-  Journal of Machine Learning Research 18, no. 1 (2018): 1-48.
+  JMLR, 2018.
   
 ### Inductive Bias of Transformers and Large Language Models 
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
-  Neural Information Processing Systems, 2023.  
+  NeurIPS, 2023.  
 - [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
-  Preliminary Version at NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.
+  Preliminary Version at NeurIPS M3L Workshop, 2023.
  
 ### Fairness in Machine Learning
 - [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809.pdf)
   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
-  Neural Information Processing Systems, 2023.
+  NeurIPS, 2023.
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
-  (with Bojian Hou, Boning Tong, Qi Long, and Li Shen),
-  Uncertainty in Artificial Intelligence, pp. 2123-2133. PMLR, 2023.
+  (with Bojian Hou, Boning Tong, Qi Long, and Li Shen), UAI, 2023.
 
