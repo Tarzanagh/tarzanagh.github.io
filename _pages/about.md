@@ -34,7 +34,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   Preliminary Version at NeurIPS M3L Workshop, 2023.
  
 ### Fairness in Machine Learning
-- [Fair Canonical Correlation Analysis](https://arxiv.org/abs/2309.15809.pdf)
+- [Fair Canonical Correlation Analysis](https://arxiv.org/pdf/2309.15809.pdf)
   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
   NeurIPS, 2023.
 - [Fairness-Aware Class Imbalanced Learning on Multiple Subgroups](https://proceedings.mlr.press/v216/tarzanagh23a)
