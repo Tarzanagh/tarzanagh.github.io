@@ -56,12 +56,12 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCA.png" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-- <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-group Tensor Canonical Correlation Analysis</a><br>
+- <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-Group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhuoping Zhou, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, Li Shen)</span>
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023.<br>
   <span style="color:#990033">Best Paper Award</span>
 
-- <a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15">Class-balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection</a><br>
+- <a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15">Class-Balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection</a><br>
   <span style="display: block;">(with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Jason H. Moore, Marylyn D Ritchie, Li Shen )</span>
   MLMI'23: The 14th International Workshop on Machine Learning in Medical Imaging, 2023.
 
@@ -141,7 +141,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2023.<br>
   Journal of Machine Learning Research 18, no. 1, 2018.
 
 
-## ≤ 2017
+## 2017 and Earlier
  
 - <a href="https://www.sciencedirect.com/science/article/pii/S0898122116306587">A Nonmonotone PRP Conjugate Gradient Method for Solving Square and Under-Determined Systems of Equations</a><br>
   <span style="display: block;">(with Mohammad Reza Peyghami)</span>
