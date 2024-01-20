@@ -12,8 +12,6 @@ author_profile: true
 <span style="display: block;">(with Mingchen Li, Pranay Sharma, Samet Oymak)</span>
 <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-- <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
-  <span style="display: block;">(with Laura Balzano)</span>
 
 - <a href="https://arxiv.org/abs/2112.05128">Fair Community Detection and Structure Learning in Heterogeneous Graphical Models</a><br>
   <span style="display: block;">(with Laura Balzano, Alfred O. Hero)</span>
@@ -27,6 +25,10 @@ author_profile: true
 - <a href="https://arxiv.org/abs/2011.01201">A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints</a><br>
   <span style="display: block;">(with William W. Hager)</span>
 
+## 2024
+
+- <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
+  <span style="display: block;">(with Laura Balzano)</span>, The 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
 
 ## 2023
 
