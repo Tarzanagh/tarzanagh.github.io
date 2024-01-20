@@ -27,7 +27,7 @@ author_profile: true
 
 ## 2024
 
-<a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
+- <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span>(with Laura Balzano)</span>, The 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
 
 ## 2023
