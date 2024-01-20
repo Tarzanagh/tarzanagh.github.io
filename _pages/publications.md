@@ -27,15 +27,17 @@ author_profile: true
 
 ## 2024
 
-- <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
-  <span style="display: block;">(with Laura Balzano)</span>, The 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
+## 2024
+
+<a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
+  <span>(with Laura Balzano)</span>, The 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
 
 ## 2023
 
 - <a href="https://arxiv.org/abs/2308.16898">Transformers as Support Vector Machines</a><br>
-<span style="display: block;">(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
+<span>(with Yingcong Li, Christos Thrampoulidis, Samet Oymak)</span>
  Preliminary Version at NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.<br>
-<a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
+<a href="https://github.com/umich-sota/tf-as-svm" style="background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
 <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
