@@ -12,7 +12,6 @@ author_profile: true
 <span style="display: block;">(with Mingchen Li, Pranay Sharma, Samet Oymak)</span>
 <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
-
 - <a href="https://arxiv.org/abs/2112.05128">Fair Community Detection and Structure Learning in Heterogeneous Graphical Models</a><br>
   <span style="display: block;">(with Laura Balzano, Alfred O. Hero)</span>
 
