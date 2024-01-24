@@ -14,7 +14,8 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)
   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
   ICML, 2022.    
-- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/pdf/2207.02829.pdf) (with Laura Balzano), AISTATS, 2024.
+- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://arxiv.org/pdf/2207.02829.pdf)
+  (with Parvin Nazari, Bojian Hou, Li Shen, Laura Balzano), AISTATS, 2024.
 
 ### High-Dimensional and Tensorial Data Analysis
 - [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)
