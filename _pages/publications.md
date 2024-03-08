@@ -28,7 +28,7 @@ author_profile: true
 
 - <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span>(with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano)</span><br> 
-  The 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
+  International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
 
 ## 2023
 
