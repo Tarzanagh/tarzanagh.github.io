@@ -25,10 +25,11 @@ author_profile: true
   <span style="display: block;">(with William W. Hager)</span>
 
 ## 2024
-
 - <a href="https://arxiv.org/abs/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span>(with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano)</span><br> 
   International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
+  <a href="https://github.com/BojianHou/OAGD" style="background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+
 
 ## 2023
 
