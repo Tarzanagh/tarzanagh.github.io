@@ -26,7 +26,7 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   (with George Michailidis),
   JMLR, 2018.
   
-### Inductive Bias of Transformers and Large Language Models 
+### Implicit Bias of Transformers and Large Language Models 
 - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)
   (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
   NeurIPS, 2023.  
