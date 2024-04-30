@@ -29,7 +29,7 @@ author_profile: true
   <span>(with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano)</span><br> 
   International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
   <a href="https://github.com/BojianHou/OAGD" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
- <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/OBO-poster-ver01.png" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
+ <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/OBO-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 
 ## 2023
