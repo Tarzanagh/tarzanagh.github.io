@@ -6,13 +6,20 @@ author_profile: true
 ---
 
 ## 2024
+
+- <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> <span>(with Zhuoping Zhou, Bojian Hou, Qi Long, and Li Shen)</span><br> Neural Information Processing Systems (NeurIPS), 2024.<br> <a href="https://github.com/pennshenlab/fair_gms" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+
+
 - <a href="https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span>(with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano)</span><br> 
   International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
   <a href="https://github.com/BojianHou/OAGD" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/OBO-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-- <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> <span>(with Zhuoping Zhou, Bojian Hou, Qi Long, and Li Shen)</span><br> Neural Information Processing Systems (NeurIPS), 2024.<br> <a href="https://github.com/pennshenlab/fair_gms" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+
+- <a href="https://arxiv.org/abs/2211.04088">A Penalty-Based Method for Communication-Efficient Decentralized Bilevel Programming</a><br>
+  <span style="display: block;">(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span><br> 
+Automatica, 2024.<br>
 
 
 ## 2023
@@ -24,9 +31,6 @@ author_profile: true
 <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
 <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-- <a href="https://arxiv.org/abs/2211.04088">A Penalty-Based Method for Communication-Efficient Decentralized Bilevel Programming</a><br>
-<span style="display: block;">(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span>
-Automatica (Provisionally Accepted), 2023.<br>
 
 - <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
 <span style="display: block;">(with Yingcong Li, Xuechen Zhang, and Samet Oymak)</span>
