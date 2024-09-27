@@ -37,8 +37,8 @@ Neural Information Processing Systems (NeurIPS), 2023.<br>
 <a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/MMslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
 <span style="color:#990033">Spotlight (≈3% Acceptance)</span>
 
-- <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br><br>
-  <span style="display: block;">(with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen)</span>
+- <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
+  <span style="display: block;">(with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen)</span><br>
   Neural Information Processing Systems (NeurIPS), 2023.<br>
   <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
