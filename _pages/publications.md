@@ -31,7 +31,6 @@ Automatica, 2024.<br>
 <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
 <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-
 - <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
 <span style="display: block;">(with Yingcong Li, Xuechen Zhang, and Samet Oymak)</span><br>
  Neural Information Processing Systems (NeurIPS), 2023.<br>
