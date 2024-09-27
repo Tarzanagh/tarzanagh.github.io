@@ -16,10 +16,9 @@ author_profile: true
   <a href="https://github.com/BojianHou/OAGD" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/OBO-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-
 - <a href="https://arxiv.org/abs/2211.04088">A Penalty-Based Method for Communication-Efficient Decentralized Bilevel Programming</a><br>
-  <span style="display: block;">(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span><br> 
-  Automatica, 2024.<br>
+<span>(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span><br>
+Automatica, 2024.<br>
 
 
 ## 2023
