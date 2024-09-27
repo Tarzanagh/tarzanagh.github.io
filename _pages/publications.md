@@ -19,7 +19,7 @@ author_profile: true
 
 - <a href="https://arxiv.org/abs/2211.04088">A Penalty-Based Method for Communication-Efficient Decentralized Bilevel Programming</a><br>
   <span style="display: block;">(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span><br> 
-Automatica, 2024.<br>
+  Automatica, 2024.<br>
 
 
 ## 2023
