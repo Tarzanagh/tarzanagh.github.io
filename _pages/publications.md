@@ -10,7 +10,7 @@ author_profile: true
 - <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> <span>(with Zhuoping Zhou, Bojian Hou, Qi Long, and Li Shen)</span><br> Neural Information Processing Systems (NeurIPS), 2024.<br> <a href="https://github.com/pennshenlab/fair_gms" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 
-- <a href="https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
+- <a href="https://arxiv.org/pdf/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span>(with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano)</span><br> 
   International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
   <a href="https://github.com/BojianHou/OAGD" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
