@@ -45,7 +45,6 @@ author_profile: true
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCA.png" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-
 - <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-Group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhuoping Zhou, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, and Li Shen)</span>
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023.<br>
@@ -67,38 +66,10 @@ author_profile: true
 
 ## 2022
 - <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
-  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak)<br>
+  <span style="display: block;">(with Mingchen Li, Christos Thrampoulidis, and Samet Oymak)</span><br>
   International Conference on Machine Learning (ICML), 2022.<br>
   <a href="https://github.com/ucr-optml/FedNest" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
-  <a href="https://icml.cc/media/icml-2022/Slides/17792_OrkxOe6.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
-  <span style="color:#990033">Oral (≈2% Acceptance)
-
-- <a href="https://ieeexplore.ieee.org/document/9867863">Data-Driven Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
-  <span style="display: block;">(with Zhe Du, Yahya Sattar, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span>
-  American Control Conference (ACC), 2022.
-
-- <a href="https://ieeexplore.ieee.org/document/9867208">Certainty Equivalent Quadratic Control for Markov Jump Systems</a><br>
-  <span style="display: block;">(with Zhe Du, Yahya Sattar, Laura Balzano, Samet Oymak, and Necmiye Ozay)</span>
-  American Control Conference (ACC), 2022.
-
-- <a href="https://ieeexplore.ieee.org/document/9909952">Truncated Matrix Completion - An Empirical Study</a><br>
-  <span style="display: block;">(with Rishhabh Naik, Nisarg Trivedi, and Laura Balzano)</span>
-  In 30th European Signal Processing Conference (EUSIPCO), 2022.
-
-- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9973382">Dadam: A Consensus-Based Distributed Adaptive Gradient Method for Online Optimization</a><br>
-  <span style="display: block;">(with Parvin Nazari, and George Michailidis)</span>
-  IEEE Transactions on Signal Processing, 2022.<br>
-  <a href="https://paperswithcode.com/paper/dadam-a-consensus-based-distributed-adaptive" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
-
-- <a href="https://www.jmlr.org/papers/volume23/20-1002/20-1002.pdf">Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data</a><br>
-  <span style="display: block;">(with George Michailidis)</span>
-  Journal of Machine Learning Research 21, no.23, 2022.<br>
-  <a href="https://github.com/tarzanagh/dcot" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
-
-- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9756209">Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD</a><br>
-  <span style="display: block;">(with Kyle Gilman, and Laura Balzano)</span>
-  IEEE Transactions on Signal Processing, DOI: 10.1109/TSP.2022.3164837, 2022.<br>
-  <a href="https://github.com/kgilman/TOUCAN" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+  <a href="https://icml.cc/media/icml-2022/Slides/177
 
 ## 2021
 
