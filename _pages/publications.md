@@ -7,42 +7,44 @@ author_profile: true
 
 ## 2024
 
-- <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> <span>(with Zhuoping Zhou, Bojian Hou, Qi Long, and Li Shen)</span><br> Neural Information Processing Systems (NeurIPS), 2024.<br> <a href="https://github.com/pennshenlab/fair_gms" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
-
+- <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> 
+  <span>(with Zhuoping Zhou, Bojian Hou, Qi Long, and Li Shen)</span><br> 
+  Neural Information Processing Systems (NeurIPS), 2024.<br> 
+  <a href="https://github.com/pennshenlab/fair_gms" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://arxiv.org/pdf/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
   <span>(with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano)</span><br> 
   International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.<br>
   <a href="https://github.com/BojianHou/OAGD" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
- <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/OBO-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/OBO-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
 - <a href="https://arxiv.org/abs/2211.04088">A Penalty-Based Method for Communication-Efficient Decentralized Bilevel Programming</a><br>
-<span>(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span><br>
-Automatica, 2024.<br>
-
-
+  <span>(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span><br> 
+  Automatica, 2024.<br>
 
 ## 2023
 
-- <a href="https://arxiv.org/pdf/2308.16898">Transformers as Support Vector Machines</a><br>
-<span>(with Yingcong Li, Christos Thrampoulidis, and Samet Oymak)</span><br>
- Preliminary Version at NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.<br>
-<a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
-<a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
-<a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
+- <a href="https://arxiv.org/pdf/2308.16898">Transformers as Support Vector Machines</a><br> 
+  <span>(with Yingcong Li, Christos Thrampoulidis, and Samet Oymak)</span><br> 
+  Preliminary Version at NeurIPS Workshop on Mathematics of Modern Machine Learning, 2023.<br> 
+  <a href="https://github.com/umich-sota/tf-as-svm" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-- <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
-<span style="display: block;">(with Yingcong Li, Xuechen Zhang, and Samet Oymak)</span><br>
- Neural Information Processing Systems (NeurIPS), 2023.<br>
-<a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/MMslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br>
-<span style="color:#990033">Spotlight (≈3% Acceptance)</span>
+- <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br> 
+  <span style="display: block;">(with Yingcong Li, Xuechen Zhang, and Samet Oymak)</span><br> 
+  Neural Information Processing Systems (NeurIPS), 2023.<br> 
+  <a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/MMslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a><br> 
+  <span style="color:#990033">Spotlight (≈3% Acceptance)</span>
 
-- <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br>
-  <span style="display: block;">(with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen)</span><br>
-   Neural Information Processing Systems (NeurIPS), 2023.<br>
+- <a href="https://arxiv.org/abs/2309.15809">Fair Canonical Correlation Analysis</a><br> 
+  <span style="display: block;">(with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen)</span><br> 
+  Neural Information Processing Systems (NeurIPS), 2023.<br> 
   <a href="https://github.com/pennshenlab/fair_cca" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
-  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a>
+  <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCAslide.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/FCCA.png" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
+
 
 - <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-Group Tensor Canonical Correlation Analysis</a><br>
   <span style="display: block;">(with Zhuoping Zhou, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, and Li Shen)</span>
