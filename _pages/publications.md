@@ -105,59 +105,58 @@ author_profile: true
 ## 2021
 
 - <a href="https://lyang36.github.io/icml2021_rltheory/camera_ready/85.pdf">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
-  <span style="display: block;">(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span>
+  <span style="display: block;">(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span><br>
   ICML Workshop on Reinforcement Learning Theory, 2021.
 
 - <a href="https://ieeexplore.ieee.org/document/9414476">Solving a Class of Nonconvex Min-Max Games Using Adaptive Momentum Methods</a><br>
-  <span style="display: block;">(with Babak Barazandeh, George Michailidis)</span>
-  In ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629, 2021.
+  <span style="display: block;">(with Babak Barazandeh, George Michailidis)</span><br>
+  ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629, 2021.
 
 ## 2019
 
--  <a href="https://ieeexplore.ieee.org/abstract/document/8755554?casa_token=qmTFNGRThtsAAAAA:nh83e4onSgi4ieSjd0lvRvDHV2cMeJANYH-l-dXrVVtr7iwUr3Sttl_vEeUoGMLa22J365vSMg">Online Distributed Estimation of Principal Eigenspaces</a><br>
-  <span style="display: block;">(with Mohamad Kazem Shirani Faradonbeh, and George Michailidis)</span>
+- <a href="https://ieeexplore.ieee.org/abstract/document/8755554?casa_token=qmTFNGRThtsAAAAA:nh83e4onSgi4ieSjd0lvRvDHV2cMeJANYH-l-dXrVVtr7iwUr3Sttl_vEeUoGMLa22J365vSMg">Online Distributed Estimation of Principal Eigenspaces</a><br>
+  <span style="display: block;">(with Mohamad Kazem Shirani Faradonbeh, and George Michailidis)</span><br>
   IEEE Data Science Workshop (DSW), 2019.
 
 - <a href="https://www.tandfonline.com/doi/abs/10.1080/10556788.2019.1637433">Adaptive Online Distributed Optimization in Dynamic Environments</a><br>
-  <span style="display: block;">(with Parvin Nazari, and Esmaile Khorram)</span>
+  <span style="display: block;">(with Parvin Nazari, and Esmaile Khorram)</span><br>
   Optimization Methods and Software, 1-25, 2019. 
 
 ## 2018
 
 - <a href="https://epubs.siam.org/doi/abs/10.1137/17M1159932?download=true&journalCode=sjisbi">Fast Randomized Algorithms for T-product Based Tensor Operations and Decompositions with Applications to Imaging Data</a><br>
-  <span style="display: block;">(with George Michailidis)</span>
+  <span style="display: block;">(with George Michailidis)</span><br>
   SIAM Journal on Imaging Sciences 11, no. 4: 2629-2664, 2018.
 
 - <a href="https://www.jmlr.org/papers/volume18/16-486/16-486.pdf">Estimation of Graphical Models through Structured Norm Minimization</a><br>
-  <span style="display: block;">(with George Michailidis)</span>
+  <span style="display: block;">(with George Michailidis)</span><br>
   Journal of Machine Learning Research 18, no. 1, 2018.
-
 
 ## 2017 and Earlier
  
 - <a href="https://www.sciencedirect.com/science/article/pii/S0898122116306587">A Nonmonotone PRP Conjugate Gradient Method for Solving Square and Under-Determined Systems of Equations</a><br>
-  <span style="display: block;">(with Parvin Nazari, and Mohammad Reza Peyghami)</span>
+  <span style="display: block;">(with Parvin Nazari, and Mohammad Reza Peyghami)</span><br>
   Computers & Mathematics with Applications 73, no. 2: 339-354, 2017.
 
 - <a href="https://link.springer.com/article/10.1007/s10957-015-0790-0">A New Nonmonotone Adaptive Retrospective Trust Region Method for Unconstrained Optimization Problems</a><br>
-  <span style="display: block;">(with Mohammad Reza Peyghami, and Fabian Bastin)</span>
+  <span style="display: block;">(with Mohammad Reza Peyghami, and Fabian Bastin)</span><br>
   Journal of Optimization Theory and Applications 167, no. 2: 676-692,  2015.
 
 - <a href="https://link.springer.com/article/10.1007/s10898-015-0310-7">A New Regularized Limited Memory BFGS-Type Method Based on Modified Secant Conditions for Unconstrained Optimization Problems</a><br>
-  <span style="display: block;">(with Mohammad Reza Peyghami)</span>
+  <span style="display: block;">(with Mohammad Reza Peyghami)</span><br>
   Journal of Global Optimization 63, no. 4: 709-728, 2015.
 
 - <a href="https://link.springer.com/article/10.1007/s10589-015-9726-8">A Relaxed Nonmonotone Adaptive Trust Region Method for Solving Unconstrained Optimization Problems</a><br>
-  <span style="display: block;">(with Mohammad Reza Peyghami)</span>
-  Computational Optimization and Applications 61, no. 2: 321-341, 2015. <br>
+  <span style="display: block;">(with Mohammad Reza Peyghami)</span><br>
+  Computational Optimization and Applications 61, no. 2: 321-341, 2015.<br>
   <a href="https://github.com/Tarzanagh/Relaxed-Trust-Region-Methods" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://link.springer.com/article/10.1007/s11590-013-0711-9">A New Trust Region Method for Solving Least-Square Transformation of System of Equalities and Inequalities</a><br>
-  <span style="display: block;">(with Zeinab Saeidian, Mohammad Reza Peyghami, and Hamid Mesgarani)</span>
-  Optimization Letters 9, no. 2: 283-310,  2015.
+  <span style="display: block;">(with Zeinab Saeidian, Mohammad Reza Peyghami, and Hamid Mesgarani)</span><br>
+  Optimization Letters 9, no. 2: 283-310, 2015.
 
 - <a href="https://www.tandfonline.com/doi/abs/10.1080/10556788.2013.855761">A New Nonmonotone Trust Region Method for Unconstrained Optimization Equipped by an Efficient Adaptive Radius</a><br>
-  <span style="display: block;">(with Mohammad Reza Peyghami, and Hamid Mesgarani)</span>
+  <span style="display: block;">(with Mohammad Reza Peyghami, and Hamid Mesgarani)</span><br>
   Optimization Methods and Software 29, no. 4: 819-836, 2014.
 
 
