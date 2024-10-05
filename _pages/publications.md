@@ -10,7 +10,7 @@ author_profile: true
 
 - <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> 
   <span>(with Zhuoping Zhou, Bojian Hou, Qi Long, and Li Shen)</span><br> 
-  Neural Information Processing Systems (NeurIPS), 2024.<br> 
+  To appear in Neural Information Processing Systems (NeurIPS), 2024.<br> 
   <a href="https://github.com/pennshenlab/fair_gms" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://arxiv.org/pdf/2207.02829">Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods</a><br>
@@ -21,7 +21,7 @@ author_profile: true
 
 - <a href="https://arxiv.org/abs/2211.04088">A Penalty-Based Method for Communication-Efficient Decentralized Bilevel Programming</a><br>
   <span>(with Parvin Nazari, Ahmad Mousavi, and George Michailidis)</span><br> 
-  Automatica, 2024.<br>
+  To appear in Automatica, 2024.<br>
 
 ## 2023
 
