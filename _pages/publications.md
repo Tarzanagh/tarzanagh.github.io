@@ -6,6 +6,24 @@ except: true
 author_profile: true
 ---
 
+## Preprint
+
+- <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
+  <span>(with Mingchen Li, Pranay Sharma, and Samet Oymak)</span><br>
+  <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+
+- <a href="https://arxiv.org/abs/2112.05128">Fair Community Detection and Structure Learning in Heterogeneous Graphical Models</a><br>
+  <span>(with Laura Balzano, and Alfred O. Hero)</span>
+
+- <a href="https://arxiv.org/abs/2111.07018">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
+  <span>(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span>
+
+- <a href="https://arxiv.org/abs/2005.09261">Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems</a><br>
+  <span>(with Parvin Nazari, and George Michailidis)</span>
+
+- <a href="https://arxiv.org/abs/2011.01201">A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints</a><br>
+  <span>(with William W. Hager)</span>
+
 ## 2024
 
 - <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> 
@@ -158,20 +176,4 @@ author_profile: true
   <span>(with Mohammad Reza Peyghami, and Hamid Mesgarani)</span><br>
   Optimization Methods and Software 29, no. 4: 819-836, 2014.
 
-## Preprint
 
-- <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
-  <span>(with Mingchen Li, Pranay Sharma, and Samet Oymak)</span><br>
-  <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
-
-- <a href="https://arxiv.org/abs/2112.05128">Fair Community Detection and Structure Learning in Heterogeneous Graphical Models</a><br>
-  <span>(with Laura Balzano, and Alfred O. Hero)</span>
-
-- <a href="https://arxiv.org/abs/2111.07018">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
-  <span>(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span>
-
-- <a href="https://arxiv.org/abs/2005.09261">Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems</a><br>
-  <span>(with Parvin Nazari, and George Michailidis)</span>
-
-- <a href="https://arxiv.org/abs/2011.01201">A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints</a><br>
-  <span>(with William W. Hager)</span>
