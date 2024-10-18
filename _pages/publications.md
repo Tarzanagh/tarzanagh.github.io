@@ -8,12 +8,13 @@ author_profile: true
 
 ## Preprint
 
-- <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
-  <span>(with Mingchen Li, Pranay Sharma, and Samet Oymak)</span><br>
-  <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://arxiv.org/abs/2112.05128">Fair Community Detection and Structure Learning in Heterogeneous Graphical Models</a><br>
   <span>(with Laura Balzano, and Alfred O. Hero)</span>
+
+- <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
+  <span>(with Mingchen Li, Pranay Sharma, and Samet Oymak)</span><br>
+  <a href="https://github.com/ucr-optml/fedmsa" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://arxiv.org/abs/2111.07018">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
   <span>(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span>
