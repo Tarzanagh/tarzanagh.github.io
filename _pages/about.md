@@ -11,8 +11,8 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 
 ### Research Interests
 - Mathematical Foundations for Attention Mechanisms and Transformers
+- High-Dimensional Data Analysis and Graph Learning 
 - Optimization Algorithms for Machine Learning
-- High-Dimensional Data Analysis and Graph Learning
 - Trustworthy Machine Learning
   
 <!--
