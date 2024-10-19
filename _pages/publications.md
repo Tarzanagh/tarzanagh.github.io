@@ -90,7 +90,7 @@ author_profile: true
 
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9973382">Dadam: A Consensus-Based Distributed Adaptive Gradient Method for Online Optimization</a><br>
   <span>(with Parvin Nazari, and George Michailidis)</span><br>
-  IEEE Transactions on Signal Processing, 2022.<br>
+  IEEE Transactions on Signal Processing 70, 6065-6079, 2022.<br>
   <a href="https://paperswithcode.com/paper/dadam-a-consensus-based-distributed-adaptive" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 - <a href="https://www.jmlr.org/papers/volume23/20-1002/20-1002.pdf">Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data</a><br>
