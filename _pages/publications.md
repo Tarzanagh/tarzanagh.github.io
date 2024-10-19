@@ -121,11 +121,11 @@ author_profile: true
 
 - <a href="https://arxiv.org/abs/2005.09261">Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems</a><br>
   <span>(with Parvin Nazari, and George Michailidis)</span><br>
-  arXiv preprint, 2020
+  arXiv preprint, 2020.
 
 - <a href="https://arxiv.org/abs/2011.01201">A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints</a><br>
   <span>(with William W. Hager)</span><br>
-  arXiv preprint, 2020
+  arXiv preprint, 2020.
 
 
 ## 2019
