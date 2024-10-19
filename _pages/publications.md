@@ -6,9 +6,6 @@ except: true
 author_profile: true
 ---
 
-## Preprint
-
-
 ## 2024
 
 - <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> 
