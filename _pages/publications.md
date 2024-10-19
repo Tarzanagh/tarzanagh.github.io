@@ -51,10 +51,6 @@ author_profile: true
   ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023.<br>
   <span style="color:#990033">Best Paper Award</span>
 
-- <a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_15">Class-Balanced Deep Learning with Adaptive Vector Scaling Loss for Dementia Stage Detection</a><br>
-  <span>(with Boning Tong, Zhuoping Zhou, Bojian Hou, Andrew J. Saykin, Jason H. Moore, Marylyn D Ritchie, and Li Shen)</span><br>
-  MLMI'23: The 14th International Workshop on Machine Learning in Medical Imaging, 2023.
-
 - <a href="https://proceedings.mlr.press/v216/tarzanagh23a">Fairness-Aware Class Imbalanced Learning on Multiple Subgroups</a><br>
   <span>(with Bojian Hou, Boning Tong, Qi Long, and Li Shen)</span><br>
   In Uncertainty in Artificial Intelligence (UAI), pp. 2123-2133. PMLR, 2023.<br>
