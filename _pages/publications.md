@@ -57,10 +57,6 @@ author_profile: true
   <a href="https://github.com/PennShenLab/FACIMS" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files//LDI_uai23_poster 2.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-- <a href="https://icml.cc/virtual/2023/25891">Margin Maximization in Attention Mechanism</a><br>
-  <span>(with Yingcong Li, Xuechen Zhang, and Samet Oymak)</span><br>
-  ICML Workshop on High-dimensional Learning Dynamics, 2023.
-
 - <a href="https://arxiv.org/abs/2306.01648">Federated Multi-Sequence Stochastic Approximation with Local Hypergradient Estimation</a><br>
   <span>(with Mingchen Li, Pranay Sharma, and Samet Oymak)</span><br>
    arXiv preprint, 2023.<br>
