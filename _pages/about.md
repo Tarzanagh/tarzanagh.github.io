@@ -13,7 +13,7 @@ I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology,
   
 - Optimization Algorithms for Machine Learning [[ATLO22](https://arxiv.org/pdf/2205.02215.pdf), [ANBH24](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)]
   
-- High-Dimensional Data Analysis [[AM22](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879), [[AM18](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)]
+- High-Dimensional Data Analysis [[AM22](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879), [AM18](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)]
   
 - Trustworthy Machine Learning [[ZZTB23](https://arxiv.org/pdf/2309.15809.pdf), [ATLH23](https://arxiv.org/pdf/2112.05128.pdf)]
 
