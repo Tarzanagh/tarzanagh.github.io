@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, working with [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). I am also affiliated with the Center for AI-Enabled Systems: Safe, Explainable, and Trustworthy. Previously, I was a postdoctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, hosted by [Laura Balzano](https://web.eecs.umich.edu/~girasole/?page_id=10). I recived my Ph.D. in Mathematics from the University of Florida in 2020, co-advised by [William Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://georgemichailidis.github.io/).
+I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, working with [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). I am also affiliated with the Center for AI-Enabled Systems: Safe, Explainable, and Trustworthy. Previously, I was a postdoctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, hosted by [Laura Balzano](https://web.eecs.umich.edu/~girasole/?page_id=10). I received my Ph.D. in Mathematics from the University of Florida in 2020, co-advised by [William Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://georgemichailidis.github.io/).
 
 ### Research Interests
 - Foundations of Attention Mechanisms and Transformers  
