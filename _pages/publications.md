@@ -122,17 +122,17 @@ author_profile: true
   ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629, 2021.
 
 - <a href="https://arxiv.org/abs/2111.07018">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
-  <span>(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span>
+  <span>(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span><br>
   arXiv preprint, 2021
 
 ## 2020
 
 - <a href="https://arxiv.org/abs/2005.09261">Adaptive First-and Zeroth-Order Methods for Weakly Convex Stochastic Optimization Problems</a><br>
-  <span>(with Parvin Nazari, and George Michailidis)</span>  
+  <span>(with Parvin Nazari, and George Michailidis)</span><br>  
   arXiv preprint, 2020
 
 - <a href="https://arxiv.org/abs/2011.01201">A Newton-Type Active Set Method for Nonlinear Optimization with Polyhedral Constraints</a><br>
-  <span>(with William W. Hager)</span>  
+  <span>(with William W. Hager)</span><br>  
   arXiv preprint, 2020
 
 
