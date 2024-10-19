@@ -100,7 +100,7 @@ author_profile: true
 
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9756209">Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD</a><br>
   <span>(with Kyle Gilman, and Laura Balzano)</span><br>
-  IEEE Transactions on Signal Processing, DOI: 10.1109/TSP.2022.3164837, 2022.<br>
+  IEEE Transactions on Signal Processing 70, 2152-2167, 2022.<br>
   <a href="https://github.com/kgilman/TOUCAN" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
 
 ## 2021
@@ -111,7 +111,7 @@ author_profile: true
 
 - <a href="https://ieeexplore.ieee.org/document/9414476">Solving a Class of Nonconvex Min-Max Games Using Adaptive Momentum Methods</a><br>
   <span>(with Babak Barazandeh, George Michailidis)</span><br>
-  ICASSP 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629, 2021.
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3625-3629, 2021.
 
 - <a href="https://arxiv.org/abs/2111.07018">Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds</a><br>
   <span>(with Yahya Sattar, Zhe Du, Laura Balzano, Necmiye Ozay, and Samet Oymak)</span><br>
