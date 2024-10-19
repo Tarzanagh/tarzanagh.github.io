@@ -9,7 +9,7 @@ redirect_from:
 I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, hosted by [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). I am also affiliated with the Center for AI-enabled Systems: Safe, Explainable, and Trustworthy. Previously, I was a post-doctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, hosted by [Laura Balzano](https://web.eecs.umich.edu/~girasole/?page_id=10). I received my Ph.D. in Mathematics from the University of Florida, where I was co-advised by [William Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://georgemichailidis.github.io/).
 
 
-### Research Interests
+### Research Focus
 
 #### Optimization Algorithms for Machine Learning
 - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)
@@ -26,6 +26,13 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
   Preliminary Version at NeurIPS M3L Workshop, 2023.
 
+#### Fairness in Machine Learning
+- [Fair Canonical Correlation Analysis](https://arxiv.org/pdf/2309.15809.pdf)
+  (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
+  NeurIPS, 2023.
+- [Fair Community Detection and Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/pdf/2112.05128.pdf)
+  (with Laura Balzano and Alfred O. Hero), Preprint, 2023.
+
 #### High-Dimensional Data Analysis and Graph Learning
 - [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)
   (with George Michailidis),
@@ -33,10 +40,3 @@ I am a post-doctoral researcher in the Department of Biostatistics, Epidemiology
 - [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)
   (with George Michailidis),
   JMLR, 2018.
- 
-#### Fairness in Machine Learning
-- [Fair Canonical Correlation Analysis](https://arxiv.org/pdf/2309.15809.pdf)
-  (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
-  NeurIPS, 2023.
-- [Fair Community Detection and Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/pdf/2112.05128.pdf)
-  (with Laura Balzano and Alfred O. Hero), Preprint, 2023.
