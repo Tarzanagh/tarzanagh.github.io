@@ -3,6 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="permalink" content="/">
+  <meta name="author_profile" content="true">
+  <meta name="redirect_from" content="/about/, /about.html">
+  <title>Research Focus and Selected Publications</title>
   <style>
     .content-box {
       background-color: #E6F2FA; /* Light blue background */
@@ -16,11 +20,23 @@
       color: #B55D00; /* Orange text for section title */
     }
 
-    p {
-      color: #333; /* Dark text for the content */
+    h3 {
+      color: #333; /* Darker text for sub-sections */
+    }
+
+    p, li {
+      color: #333; /* Standard text */
+    }
+
+    a {
+      color: #004080; /* Link color */
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
   </style>
-  <title>Davoud's Research Page</title>
 </head>
 <body>
 
