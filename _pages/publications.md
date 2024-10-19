@@ -48,7 +48,7 @@ author_profile: true
 
 - <a href="https://dl.acm.org/doi/abs/10.1145/3584371.3612962">Multi-Group Tensor Canonical Correlation Analysis</a><br>
   <span>(with Zhuoping Zhou, Boning Tong, Bojian Hou, Andrew J. Saykin, Qi Long, and Li Shen)</span><br>
-  ACM-BCB 23: The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023.<br>
+   The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB), 2023.<br>
   <span style="color:#990033">Best Paper Award</span>
 
 - <a href="https://proceedings.mlr.press/v216/tarzanagh23a">Fairness-Aware Class Imbalanced Learning on Multiple Subgroups</a><br>
