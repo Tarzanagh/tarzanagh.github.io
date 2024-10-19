@@ -10,10 +10,11 @@ I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology,
 
 
 ### Research Interests
-- Foundations of Attention Mechanisms and Transformers ([[1](https://arxiv.org/pdf/2306.13596.pdf), [2](https://arxiv.org/pdf/2308.16898.pdf)])  
-- Optimization Algorithms for Machine Learning ([[3](https://arxiv.org/pdf/2205.02215.pdf), [4](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)])  
-- High-Dimensional Data Analysis ([[5](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879), [6](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)])  
-- Trustworthy Machine Learning ([[7](https://arxiv.org/pdf/2309.15809.pdf), [8](https://arxiv.org/pdf/2112.05128.pdf)])
+- Foundations of Attention Mechanisms and Transformers (<span style="font-size:1.2em;">[[1](https://arxiv.org/pdf/2306.13596.pdf), [2](https://arxiv.org/pdf/2308.16898.pdf)]</span>)  
+- Optimization Algorithms for Machine Learning (<span style="font-size:1.2em;">[[3](https://arxiv.org/pdf/2205.02215.pdf), [4](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)]</span>)  
+- High-Dimensional Data Analysis (<span style="font-size:1.2em;">[[5](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879), [6](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)]</span>)  
+- Trustworthy Machine Learning (<span style="font-size:1.2em;">[[7](https://arxiv.org/pdf/2309.15809.pdf), [8](https://arxiv.org/pdf/2112.05128.pdf)]</span>)
+
 
   
 <!--
