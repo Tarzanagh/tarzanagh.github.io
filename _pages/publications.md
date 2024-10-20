@@ -32,7 +32,7 @@ author_profile: true
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Slide</a> 
   <a href="https://github.com/Tarzanagh/tarzanagh.github.io/blob/master/files/TF%3DSVM-poster.pdf" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Poster</a>
 
-- <a href="https://arxiv.org/abs/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
+- <a href="https://arxiv.org/pdf/2306.13596">Max-Margin Token Selection in Attention Mechanism</a><br>
   <span>(with Yingcong Li, Xuechen Zhang, and Samet Oymak)</span><br>
   Neural Information Processing Systems (NeurIPS), 2023.<br>
   <a href="https://github.com/ucr-optml/max_margin_attention" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
@@ -69,7 +69,7 @@ author_profile: true
 
 ## 2022
 
-- <a href="https://arxiv.org/abs/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
+- <a href="https://arxiv.org/pdf/2205.02215">FedNest: Federated Bilevel, Minimax, and Compositional Optimization</a><br>
   <span>(with Mingchen Li, Christos Thrampoulidis, and Samet Oymak)</span><br>
   International Conference on Machine Learning (ICML), 2022.<br>
   <a href="https://github.com/ucr-optml/FedNest" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a> 
