@@ -9,10 +9,10 @@ redirect_from:
 I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, working with [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). I am also affiliated with the Center for AI-Enabled Systems: Safe, Explainable, and Trustworthy. Previously, I was a postdoctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, hosted by [Laura Balzano](https://web.eecs.umich.edu/~girasole/?page_id=10). I received my Ph.D. in Mathematics from the University of Florida, co-advised by [William Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://georgemichailidis.github.io/).
 
 ### Research Interests
-- Foundations of Attention Mechanisms and Transformers
-- Optimization Algorithms for Machine Learning
-- High-Dimensional Data Analysis
-- Trustworthy Machine Learning
+- Foundations of Attention Mechanisms and Transformers [[ALZO23](https://arxiv.org/pdf/2306.13596.pdf), [ALTO23](https://arxiv.org/pdf/2308.16898.pdf)]
+- Optimization Algorithms for Machine Learning [[ALTO22](https://arxiv.org/pdf/2205.02215.pdf), [ANHS24](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)]
+- High-Dimensional Data Analysis [[AM22](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879), [AM18](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)]
+- Trustworthy Machine Learning [[ZAHT23](https://arxiv.org/pdf/2309.15809.pdf), [ABH23](https://arxiv.org/pdf/2112.05128.pdf)]
 
 
 <!--
