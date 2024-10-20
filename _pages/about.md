@@ -10,7 +10,7 @@ I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology,
 
 ### Research Interests
 - Foundations of Attention Mechanisms and Transformers [[ALZO23](https://arxiv.org/pdf/2306.13596.pdf), [ALTO23](https://arxiv.org/pdf/2308.16898.pdf)]
-- Optimization Algorithms for Machine Learning [[ALTO22](https://arxiv.org/pdf/2205.02215.pdf), [ANHS24](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)]
+- Optimization Algorithms for Machine Learning [[ALTO22](https://arxiv.org/pdf/2205.02215.pdf), [ANH^+24](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)]
 - High-Dimensional Data Analysis [[AM22](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879), [AM18](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)]
 - Trustworthy Machine Learning [[ZAHT23](https://arxiv.org/pdf/2309.15809.pdf), [ABH23](https://arxiv.org/pdf/2112.05128.pdf)]
 
