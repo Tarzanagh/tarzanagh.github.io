@@ -9,6 +9,8 @@ author_profile: true
 
 ## 2024
 
+- <a href="https://arxiv.org/pdf/2410.14581">Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection</a><br> <span>(with Aaron Alvarado Kristanto Julistiono and Navid Azizan)</span><br> Preliminary Version at NeurIPS Workshop on Mathematics of Modern Machine Learning, 2024.<br> <a href="https://github.com/aaronk2002/AttentionMD" style="display: inline-block; background-color: #87CEEB; color: white; padding: 4px; border-radius: 2px; text-decoration: none; font-size: small;">Code</a>
+
 - <a href="https://arxiv.org/pdf/2408.17396">Fairness-Aware Estimation of Graphical Models</a><br> 
   <span>(with Zhuoping Zhou, Bojian Hou, Qi Long, and Li Shen)</span><br> 
   To appear in Neural Information Processing Systems (NeurIPS), 2024.<br> 
