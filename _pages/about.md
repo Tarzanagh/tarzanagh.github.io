@@ -10,9 +10,9 @@ I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology,
 
 ### Research Interests
 - Foundations of Attention Mechanisms and Transformers
-- Optimization Algorithms for Machine Learning
-- Trustworthy Machine Learning
+- Mathematical Optimization for Machine Learning
 - High-Dimensional Data Analysis
+- Trustworthy Machine Learning
 
 <!--
 ### Research Interests
