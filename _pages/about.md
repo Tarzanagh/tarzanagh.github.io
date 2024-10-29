@@ -19,7 +19,7 @@ Foundations of Attention Mechanisms and Transformers
   - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)  
     (with Yingcong Li, Xuechen Zhang, and Samet Oymak), NeurIPS, 2023.
   - [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)  
-    (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak), Preliminary Version at NeurIPS M3L Workshop, 2023.
+    (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak), NeurIPS M3L Workshop, 2023.
     
 Mathematical Optimization for Machine Learning
   - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)  
