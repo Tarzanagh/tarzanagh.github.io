@@ -10,27 +10,25 @@ I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology,
 
 Previously, I was a postdoctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, hosted by [Laura Balzano](https://web.eecs.umich.edu/~girasole/?page_id=10). I received my Ph.D. in Mathematics from the University of Florida, co-advised by [William Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://georgemichailidis.github.io/).
 
-### Research Interests
+Research Interests
 
-• **Foundations of Attention Mechanisms and Transformers**
+---
+**Foundations of Attention Mechanisms and Transformers**
   - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)  
     (with Yingcong Li, Xuechen Zhang, and Samet Oymak), NeurIPS, 2023.
   - [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)  
     (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak), Preliminary Version at NeurIPS M3L Workshop, 2023.
-
-• **Mathematical Optimization for Machine Learning**
+**Mathematical Optimization for Machine Learning**
   - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)  
     (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak), ICML, 2022.
   - [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)  
     (with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano), AISTATS, 2024.
-
-• **High-Dimensional Data Analysis**
+**High-Dimensional Data Analysis**
   - [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)  
     (with George Michailidis), JMLR, 2022.
   - [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)  
     (with George Michailidis), JMLR, 2018.
-
-• **Trustworthy Machine Learning**
+**Trustworthy Machine Learning**
   - [Fair Canonical Correlation Analysis](https://arxiv.org/pdf/2309.15809.pdf)  
     (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen), NeurIPS, 2023.
   - [Fair Community Detection and Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/pdf/2112.05128.pdf)  
