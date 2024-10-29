@@ -13,7 +13,7 @@ Previously, I was a postdoctoral researcher in the Department of Electrical Engi
 
 
 ### Research Interests
-___
+________
 
 Foundations of Attention Mechanisms and Transformers
   - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)  
