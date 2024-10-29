@@ -11,7 +11,15 @@ I am a postdoctoral researcher in the Department of Biostatistics, Epidemiology,
 Previously, I was a postdoctoral researcher in the Department of Electrical Engineering and Computer Science at the University of Michigan, hosted by [Laura Balzano](https://web.eecs.umich.edu/~girasole/?page_id=10). I received my Ph.D. in Mathematics from the University of Florida, co-advised by [William Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://georgemichailidis.github.io/).
 
 
+### Research Interests
 
+- Foundations of Attention Mechanisms and Transformers  
+- Mathematical Optimization for Machine Learning
+- High-Dimensional Data Analysis
+- Trustworthy Machine Learning
+
+
+<!--
 ### Research Interests
 ________
 
@@ -38,4 +46,5 @@ Trustworthy Machine Learning
     (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen), NeurIPS, 2023.
   - [Fair Community Detection and Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/pdf/2112.05128.pdf)  
     (with Laura Balzano and Alfred O. Hero), Preprint, 2023.
+-->
 
