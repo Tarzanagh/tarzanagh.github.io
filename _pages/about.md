@@ -12,64 +12,26 @@ Previously, I was a postdoctoral researcher in the Department of Electrical Engi
 
 ### Research Interests
 
-> #### Foundations of Attention Mechanisms and Transformers
-> - [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)  
->   (with Yingcong Li, Xuechen Zhang, and Samet Oymak), NeurIPS, 2023.
-> - [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)  
->   (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak), Preliminary Version at NeurIPS M3L Workshop, 2023.
+#### Foundations of Attention Mechanisms and Transformers
+- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)  
+  (with Yingcong Li, Xuechen Zhang, and Samet Oymak), NeurIPS, 2023.
+- [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)  
+  (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak), Preliminary Version at NeurIPS M3L Workshop, 2023.
 
-> #### Mathematical Optimization for Machine Learning
-> - [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)  
->   (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak), ICML, 2022.
-> - [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)  
->   (with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano), AISTATS, 2024.
-
-> #### High-Dimensional Data Analysis
-> - [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)  
->   (with George Michailidis), JMLR, 2022.
-> - [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)  
->   (with George Michailidis), JMLR, 2018.
-
-> #### Trustworthy Machine Learning
-> - [Fair Canonical Correlation Analysis](https://arxiv.org/pdf/2309.15809.pdf)  
->   (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen), NeurIPS, 2023.
-> - [Fair Community Detection and Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/pdf/2112.05128.pdf)  
->   (with Laura Balzano and Alfred O. Hero), Preprint, 2023.
-
-
-<!--
-### Research Interests
-- Foundations of Attention Mechanisms and Transformers [[ALZO23](https://arxiv.org/pdf/2306.13596.pdf), [ALTO23](https://arxiv.org/pdf/2308.16898.pdf)]
-- Optimization Algorithms for Machine Learning [[ALTO22](https://arxiv.org/pdf/2205.02215.pdf), [ANHS24](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)]
-- High-Dimensional Data Analysis [[AM22](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879), [AM18](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)]
-- Trustworthy Machine Learning [[ZAHT23](https://arxiv.org/pdf/2309.15809.pdf), [ABH23](https://arxiv.org/pdf/2112.05128.pdf)]
-### Mathematical Foundations for Attention Mechanisms and Transformers
-- [Max-Margin Token Selection in Attention Mechanism](https://arxiv.org/pdf/2306.13596.pdf)
-  (with Yingcong Li, Xuechen Zhang, and Samet Oymak),
-  NeurIPS, 2023.  
-- [Transformers as Support Vector Machines](https://arxiv.org/pdf/2308.16898.pdf)
-  (with Yingcong Li, Christos Thrampoulidis, and Samet Oymak),
-  Preliminary Version at NeurIPS M3L Workshop, 2023.
-
-### Optimization Algorithms for Machine Learning 
-- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)
-  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak),
-  ICML, 2022.    
-- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)
+#### Mathematical Optimization for Machine Learning
+- [FedNest: Federated Bilevel, Minimax, and Compositional Optimization](https://arxiv.org/pdf/2205.02215.pdf)  
+  (with Mingchen Li, Christos Thrampoulidis, and Samet Oymak), ICML, 2022.
+- [Online Bilevel Optimization: Regret Analysis of Online Alternating Gradient Methods](https://proceedings.mlr.press/v238/ataee-tarzanagh24a/ataee-tarzanagh24a.pdf)  
   (with Parvin Nazari, Bojian Hou, Li Shen, and Laura Balzano), AISTATS, 2024.
 
-### High-Dimensional Data Analysis and Graph Learning
-- [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)
-  (with George Michailidis),
-  JMLR, 2022.
-- [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)
-  (with George Michailidis),
-  JMLR, 2018.
+#### High-Dimensional Data Analysis
+- [Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data](https://dl.acm.org/doi/pdf/10.5555/3586589.3586879)  
+  (with George Michailidis), JMLR, 2022.
+- [Estimation of Graphical Models through Structured Norm Minimization](https://www.jmlr.org/papers/volume18/16-486/16-486.pdf)  
+  (with George Michailidis), JMLR, 2018.
 
-### Fairness in Machine Learning
-- [Fair Canonical Correlation Analysis](https://arxiv.org/pdf/2309.15809.pdf)
-  (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen),
-  NeurIPS, 2023.
-- [Fair Community Detection and Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/pdf/2112.05128.pdf)
+#### Trustworthy Machine Learning
+- [Fair Canonical Correlation Analysis](https://arxiv.org/pdf/2309.15809.pdf)  
+  (with Zhuoping Zhou, Bojian Hou, Boning Tong, Jia Xu, Yanbo Feng, Qi Long, and Li Shen), NeurIPS, 2023.
+- [Fair Community Detection and Structure Learning in Heterogeneous Graphical Models](https://arxiv.org/pdf/2112.05128.pdf)  
   (with Laura Balzano and Alfred O. Hero), Preprint, 2023.
--->
