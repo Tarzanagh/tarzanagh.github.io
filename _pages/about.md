@@ -16,10 +16,10 @@ redirect_from:
     width: 320px !important;
   }
   
-  /* Reduce gap between sidebar and content */
+  /* Reduce gap between sidebar and content - move content left */
   .page {
-    width: calc(100% - 350px) !important;
-    padding-left: 350px !important;
+    width: calc(100% - 330px) !important;
+    padding-left: 330px !important;
   }
 }
 /* Remove extra top padding/margin from content */
