@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <style>
-/* Increase sidebar width */
+/* Wider sidebar so name fits */
 .sidebar {
   width: 280px !important;
 }
@@ -17,28 +17,13 @@ redirect_from:
   .sidebar {
     width: 320px !important;
   }
-}
-
-@media (min-width: 80em) {
-  .sidebar {
-    width: 350px !important;
-  }
-}
-
-/* Adjust main content to accommodate wider sidebar */
-@media (min-width: 64em) {
   .page {
     width: calc(100% - 350px) !important;
     padding-left: 350px !important;
   }
 }
-
-@media (min-width: 80em) {
-  .page {
-    width: calc(100% - 380px) !important;
-    padding-left: 380px !important;
-  }
-}
 </style>
 
-I am an AI Scientist at Samsung SDS Research America, Mountain View.
+I am an AI Scientist at Samsung SDS Research America, Mountain View, where I work on building AI tools for enterprise data.
+
+[Read full biography →](/bio/)
