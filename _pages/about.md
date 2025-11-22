@@ -6,13 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <style>
 /* Wider sidebar so name fits */
 .sidebar {
   width: 280px !important;
 }
-
 @media (min-width: 64em) {
   .sidebar {
     width: 320px !important;
@@ -24,14 +22,28 @@ redirect_from:
     padding-left: 350px !important;
   }
 }
-
-/* Remove extra top padding from content */
+/* Remove extra top padding/margin from content */
 .page__content {
-  padding-top: 1em !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
 }
-
 /* Move content up to align with top of sidebar */
 .page__inner-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+/* Remove top margin from first paragraph */
+.page__content p:first-child {
+  margin-top: 0 !important;
+}
+/* Target main content wrapper */
+#main {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+/* Target article element if present */
+article {
+  padding-top: 0 !important;
   margin-top: 0 !important;
 }
 </style>
