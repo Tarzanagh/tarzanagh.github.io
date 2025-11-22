@@ -17,5 +17,5 @@ I am an AI Scientist at Samsung SDS Research America in Mountain View, where I w
 ## Selected Service
 
 - Area Chair: ICML  
-- Reviewer: NeurIPS, ICLR, ICML, AISTATS
+- Reviewer: NeurIPS, ICLR, ICML
 
