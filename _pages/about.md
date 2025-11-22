@@ -9,26 +9,6 @@ redirect_from:
 ---
 
 <style>
-/* Manual navigation style */
-.manual-nav {
-  text-align: center;
-  padding: 20px;
-  margin-bottom: 40px;
-  border-bottom: 1px solid #eee;
-}
-
-.manual-nav a {
-  color: #666;
-  text-decoration: none;
-  margin: 0 15px;
-  font-size: 16px;
-  transition: color 0.2s;
-}
-
-.manual-nav a:hover {
-  color: #333;
-}
-
 /* Override ALL theme containers */
 #main {
   max-width: 100% !important;
@@ -58,7 +38,7 @@ redirect_from:
   padding: 80px 20px;
   max-width: 700px;
   margin: 0 auto !important;
-  min-height: 60vh;
+  min-height: 70vh;
 }
 
 .profile-image {
@@ -141,22 +121,8 @@ redirect_from:
     flex-direction: column;
     gap: 15px;
   }
-  
-  .manual-nav a {
-    display: block;
-    margin: 10px 0;
-  }
 }
 </style>
-
-<!-- Manual Navigation (in case theme nav doesn't show) -->
-<div class="manual-nav">
-  <a href="/">Home</a>
-  <a href="/bio/">Bio</a>
-  <a href="/publications/">Publications</a>
-  <a href="/talks/">Talks</a>
-  <a href="/contact/">Contact</a>
-</div>
 
 <div class="minimal-home">
   <img src="/images/Davoud.png" alt="Davoud Ataee Tarzanagh" class="profile-image">
