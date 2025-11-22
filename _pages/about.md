@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /
 title: ""
 author_profile: false
@@ -9,57 +9,47 @@ redirect_from:
 ---
 
 <style>
-/* Center the navigation menu - FIXED VERSION */
-.masthead__inner-wrap {
-  max-width: 100% !important;
+/* Manual navigation style */
+.manual-nav {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #eee;
 }
 
-.greedy-nav {
-  max-width: 100% !important;
-  text-align: center !important;
+.manual-nav a {
+  color: #666;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 16px;
+  transition: color 0.2s;
 }
 
-.greedy-nav .visible-links {
-  justify-content: center !important;
-  display: flex !important;
-  flex-wrap: wrap;
-  gap: 10px;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
+.manual-nav a:hover {
+  color: #333;
 }
 
-.greedy-nav .visible-links li {
-  float: none !important;
-}
-
-/* Don't hide the toggle - remove this if nav is hidden */
-/* .greedy-nav__toggle { display: none !important; } */
-
-/* Override theme defaults for content */
-.page {
-  width: 100% !important;
+/* Override ALL theme containers */
+#main {
   max-width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-.page__inner-wrap {
+.archive {
   max-width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
 .page__content {
-  width: 100% !important;
   max-width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
-  float: none !important;
 }
 
 /* Center the main container */
 .minimal-home {
-  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -67,9 +57,8 @@ redirect_from:
   text-align: center;
   padding: 80px 20px;
   max-width: 700px;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  min-height: 70vh;
+  margin: 0 auto !important;
+  min-height: 60vh;
 }
 
 .profile-image {
@@ -152,8 +141,22 @@ redirect_from:
     flex-direction: column;
     gap: 15px;
   }
+  
+  .manual-nav a {
+    display: block;
+    margin: 10px 0;
+  }
 }
 </style>
+
+<!-- Manual Navigation (in case theme nav doesn't show) -->
+<div class="manual-nav">
+  <a href="/">Home</a>
+  <a href="/bio/">Bio</a>
+  <a href="/publications/">Publications</a>
+  <a href="/talks/">Talks</a>
+  <a href="/contact/">Contact</a>
+</div>
 
 <div class="minimal-home">
   <img src="/images/Davoud.png" alt="Davoud Ataee Tarzanagh" class="profile-image">
