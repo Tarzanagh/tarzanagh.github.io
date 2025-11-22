@@ -117,7 +117,7 @@ redirect_from:
 </style>
 
 <div class="minimal-home">
-  <img src="/images/profile.png" alt="Davoud Ataee Tarzanagh" class="profile-image">
+  <img src="/images/Davoud.png" alt="Davoud Ataee Tarzanagh" class="profile-image">
   
   <h1 class="name">Davoud Ataee Tarzanagh</h1>
   
