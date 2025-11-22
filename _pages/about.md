@@ -9,28 +9,42 @@ redirect_from:
 ---
 
 <style>
-/* Reset and ensure proper centering */
+/* Strong override of theme defaults */
 .page {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.page__content {
+  width: 100% !important;
   max-width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
+.page__inner-wrap {
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.page__content {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important;
+}
+
+/* Center the main container */
 .minimal-home {
+  position: relative;
+  left: 0;
+  right: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
   padding: 80px 20px;
-  max-width: 600px;
-  margin: 0 auto;
+  max-width: 700px;
+  margin-left: auto !important;
+  margin-right: auto !important;
   min-height: 70vh;
 }
 
@@ -39,45 +53,46 @@ redirect_from:
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  margin: 0 auto 25px auto;
+  margin: 0 auto 25px auto !important;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  display: block;
+  display: block !important;
 }
 
 .name {
   font-size: 2em;
   font-weight: 600;
   color: #333;
-  margin: 10px 0 15px 0;
-  text-align: center;
+  margin: 10px auto 15px auto !important;
+  text-align: center !important;
+  width: 100%;
 }
 
 .title-company {
   font-size: 1.1em;
   color: #666;
-  margin: 5px 0;
+  margin: 5px auto !important;
   line-height: 1.6;
-  text-align: center;
+  text-align: center !important;
+  width: 100%;
 }
 
 .location {
   font-size: 1em;
   color: #888;
-  margin: 20px 0;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 5px;
+  margin: 20px auto !important;
+  text-align: center !important;
+  display: block;
+  width: 100%;
 }
 
 .social-links {
   display: flex;
   gap: 25px;
-  justify-content: center;
+  justify-content: center !important;
   align-items: center;
-  margin: 25px 0;
+  margin: 25px auto !important;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .social-links a {
