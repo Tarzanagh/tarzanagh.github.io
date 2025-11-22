@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 <style>
-/* Center the navigation menu */
+/* Center the navigation menu - FIXED VERSION */
+.masthead__inner-wrap {
+  max-width: 100% !important;
+}
+
 .greedy-nav {
   max-width: 100% !important;
   text-align: center !important;
@@ -20,13 +24,18 @@ redirect_from:
   display: flex !important;
   flex-wrap: wrap;
   gap: 10px;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 
-.greedy-nav__toggle {
-  display: none !important;
+.greedy-nav .visible-links li {
+  float: none !important;
 }
 
-/* Override theme defaults */
+/* Don't hide the toggle - remove this if nav is hidden */
+/* .greedy-nav__toggle { display: none !important; } */
+
+/* Override theme defaults for content */
 .page {
   width: 100% !important;
   max-width: 100% !important;
