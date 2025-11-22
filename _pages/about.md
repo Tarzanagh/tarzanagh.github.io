@@ -10,4 +10,8 @@ redirect_from:
 
 I am an AI Scientist at Samsung SDS Research America in Mountain View, where I work on AI systems for enterprise data analytics.
 
-**Research Interests:** Mathematical foundations of Transformers and LLMs; mathematical optimization for AI and multi-agent systems; graph-based reasoning and retrieval; and trustworthy AI (fairness, privacy, and robustness).
+**Research Interests:**
+- Mathematical foundations of Transformers and LLMs
+- Mathematical optimization for AI and multi-agent systems
+- Graph-based reasoning and retrieval
+- Trustworthy AI (fairness, privacy, and robustness)
