@@ -9,7 +9,24 @@ redirect_from:
 ---
 
 <style>
-/* Strong override of theme defaults */
+/* Center the navigation menu */
+.greedy-nav {
+  max-width: 100% !important;
+  text-align: center !important;
+}
+
+.greedy-nav .visible-links {
+  justify-content: center !important;
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+/* Override theme defaults */
 .page {
   width: 100% !important;
   max-width: 100% !important;
@@ -34,8 +51,6 @@ redirect_from:
 /* Center the main container */
 .minimal-home {
   position: relative;
-  left: 0;
-  right: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
