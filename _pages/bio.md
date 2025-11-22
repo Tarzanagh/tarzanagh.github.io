@@ -19,5 +19,5 @@ I received my Ph.D. in Mathematics from the University of Florida in 2020, where
 ## Selected Service
 
 - Area Chair: ICML  
-- Reviewer: NeurIPS, ICLR, ICML, AAAI, AISTATS
+- Reviewer: NeurIPS, ICLR, ICML, AISTATS
 
