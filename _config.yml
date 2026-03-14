@@ -1,88 +1,39 @@
-# Welcome to Jekyll!
-# This config file is meant for settings that affect your entire site.
-# For technical reasons, this file is *NOT* reloaded automatically when you use `jekyll serve`.
-# If you change this file, please restart the server process.
- 
 # Site Settings
 locale: "en-US"
 title: "Home"
 title_separator: "-"
 name: &name "Davoud Ataee Tarzanagh"
-description: &description "personal description"
+description: &description "AI Scientist at Samsung SDS Research America"
 url: https://tarzanagh.github.io
 baseurl: ""
 repository: "tarzanagh/tarzanagh.github.io"
-teaser: 
+teaser:
 breadcrumbs: false
 words_per_minute: 160
 future: true
 read_more: "disabled"
 talkmap_link: false
 
-# Comments Configuration
-comments:
-  provider: 
-  disqus:
-    shortname: 
-  discourse:
-    server: 
-  facebook:
-    appid: 
-    num_posts: 
-    colorscheme: "light"
-  staticman:
-    allowedFields: ['name', 'email', 'url', 'message']
-    branch: "gh-pages"
-    commitMessage: "New comment."
-    filename: comment-{@timestamp}
-    format: "yml"
-    moderation: true
-    path: "_data/comments/{options.slug}"
-    requiredFields: ['name', 'email', 'message']
-    transforms:
-      email: "md5"
-    generatedFields:
-      date:
-        type: "date"
-        options:
-          format: "iso8601"
-
 # SEO Related
-google_site_verification: 
-bing_site_verification: 
-alexa_site_verification: 
-yandex_site_verification: 
-
-# Social Sharing
-twitter:
-  username: &twitter
-facebook:
-  username: 
-  app_id: 
-  publisher: 
-og_image: 
-social:
-  type: 
-  name: 
-  links: 
+google_site_verification:
+bing_site_verification:
 
 # Analytics
 analytics:
   provider: "google-universal"
   google:
-    tracking_id: 
+    tracking_id:
 
 # Site Author
 author:
   name: "Davoud Ataee Tarzanagh"
   avatar: "Davoud.png"
-  bio: ""
+  bio: "AI Scientist at Samsung SDS Research America"
   location: "Mountain View, CA"
-  employer: 
+  email: "tarzanagh@gmail.com"
   googlescholar: "https://scholar.google.com/citations?user=Djtvz_0AAAAJ&hl=en"
   github: "Tarzanagh"
   linkedin: "davoud-ataee-tarzanagh-4a41a6235"
-  # orcid: "https://orcid.org/0000-0003-1267-3889"
   arxiv: "https://arxiv.org/search/cs?searchtype=author&query=Tarzanagh%2C+D+A"
 
 # Reading Files
@@ -132,7 +83,6 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
-  #footnote_nr: 0
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
@@ -140,13 +90,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -157,28 +101,10 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  - scope:
-      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   - scope:
       path: ""
       type: publications
@@ -186,15 +112,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   - scope:
       path: ""
       type: talks
@@ -211,15 +128,6 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 timezone: America/Los_Angeles
-
-
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 
 # HTML Compression
 compress_html:
