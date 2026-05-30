@@ -6,10 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an AI Scientist at Samsung SDS Research America in Mountain View, working on Physical AI.
-
-**Research Interests:**
-- Mathematical optimization
-- Transformer and LLM foundations
-- High-dimensional graph and tensor analysis
-- Trustworthy AI (fairness, privacy, and safety)
+I am an AI Scientist at Samsung SDS Research America in Mountain View. Previously, I was a postdoctoral researcher at the University of Pennsylvania with [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258) and [Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931), and at the University of Michigan with [Laura Balzano](https://web.eecs.umich.edu/~girasole/?page_id=10). I obtained my Ph.D. in Mathematics from the University of Florida, where I was co-advised by [William Hager](https://people.clas.ufl.edu/hager/) and [George Michailidis](https://georgemichailidis.github.io/).

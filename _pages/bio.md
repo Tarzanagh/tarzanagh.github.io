@@ -8,3 +8,9 @@ I am an AI Scientist at Samsung SDS Research America in Mountain View. Previousl
 
 **Selected services:** 
 - Area Chair: NeurIPS, ICML
+
+**Research Interests:**
+- Mathematical optimization
+- Transformer and LLM foundations
+- High-dimensional graph and tensor analysis
+- Trustworthy AI (fairness, privacy, and safety)
