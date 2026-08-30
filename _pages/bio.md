@@ -12,5 +12,5 @@ I am an AI Scientist at Samsung SDS Research America in Mountain View, working o
 **Research Interests:**
 - Mathematical optimization
 - Transformer and LLM foundations
-- High-dimensional graph and tensor analysis
-- Trustworthy AI (fairness, privacy, and safety)
+- Physical AI
+- Trustworthy AI
